@@ -1,0 +1,1370 @@
+{
+  "spriteSetVersion": "sprites-c947f98c",
+  "sets": {
+    "official-artwork": {
+      "version": "sprites-f4cfaec8",
+      "sprites": {
+        "abomasnow": {
+          "file": "abomasnow.png",
+          "bytes": 157861,
+          "sha256": "105bfb2ee8162a69f8d10b3997d496124ba497570d8a3d10e8af58664b39333b"
+        },
+        "abomasnowmega": {
+          "file": "abomasnowmega.png",
+          "bytes": 211520,
+          "sha256": "f9836c58f459d66450ef963f4ee8349a62de02cb051602633391a9f53a032eb5"
+        },
+        "absol": {
+          "file": "absol.png",
+          "bytes": 109932,
+          "sha256": "19f0b71d2bdd3cba966bff5a8a6f8e00e254bfff0b0524967e45eab3d002ba87"
+        },
+        "absolmega": {
+          "file": "absolmega.png",
+          "bytes": 144245,
+          "sha256": "56740a3a9fca699a7d13be13220784b7333057ba7aa6104bee07289dff0ef2f1"
+        },
+        "aegislash": {
+          "file": "aegislash.png",
+          "bytes": 141097,
+          "sha256": "196fd293d3721a1091700c029536addaf7c98125af6aca2285431102ebf24e26"
+        },
+        "aerodactyl": {
+          "file": "aerodactyl.png",
+          "bytes": 81716,
+          "sha256": "5427b0a9ac5dbf1fee7fcd19f44de1dfb97d577c82262bb961538865a08bc79a"
+        },
+        "aerodactylmega": {
+          "file": "aerodactylmega.png",
+          "bytes": 113807,
+          "sha256": "d0a95969d06805d588318c348158dbf3f54388f02b898165c9ce73d63e49365d"
+        },
+        "aggron": {
+          "file": "aggron.png",
+          "bytes": 212624,
+          "sha256": "87852235e548c06e4a1c03c15813144baa4f172f4cc06813453cc7f2c7c7dcd8"
+        },
+        "aggronmega": {
+          "file": "aggronmega.png",
+          "bytes": 173809,
+          "sha256": "6fd7242541324e0ec2f7c5ddc1ac028805f71977cec2d2a03b8a07d47c075d4c"
+        },
+        "alakazam": {
+          "file": "alakazam.png",
+          "bytes": 162890,
+          "sha256": "8f1dfebe7855bf0838dc4110629b01a8862370373cabe527adf3f979bc4fa1e0"
+        },
+        "alakazammega": {
+          "file": "alakazammega.png",
+          "bytes": 154479,
+          "sha256": "fd2b8d597a8230eb29242a1b452435e2a2a400c7b545e3452bffa0c8ae584250"
+        },
+        "alcremie": {
+          "file": "alcremie.png",
+          "bytes": 102203,
+          "sha256": "a196a287a56e322ca6f506bb63d471dd927d4596fdb2ccc9e800f1ca7b027e7a"
+        },
+        "altaria": {
+          "file": "altaria.png",
+          "bytes": 126281,
+          "sha256": "17e156e4c200d28f93199550fa0b7e15a749f67ba71418296f519be679a28c5d"
+        },
+        "altariamega": {
+          "file": "altariamega.png",
+          "bytes": 138692,
+          "sha256": "88cd934633eb0bf9c49c24e1d93fb0c775f847be2ab350d3567aa772a0bd2419"
+        },
+        "ampharos": {
+          "file": "ampharos.png",
+          "bytes": 102345,
+          "sha256": "6642ebe7d357c229e6ba1a353bd8530bf98808b4c2a7acdd6bc4798fd07aa191"
+        },
+        "ampharosmega": {
+          "file": "ampharosmega.png",
+          "bytes": 153128,
+          "sha256": "49d430f23a90bd214468b0d9eb2db1315686e830c0198bfa285b133ca160cbba"
+        },
+        "appletun": {
+          "file": "appletun.png",
+          "bytes": 137737,
+          "sha256": "f6bb74d71c5685b28e7d0a200867d66ec26f46f2c231704e0a985b3cbff72250"
+        },
+        "araquanid": {
+          "file": "araquanid.png",
+          "bytes": 161392,
+          "sha256": "0cddae49061391f8072830dd540afba423b84e7ff3f301e47b94f82834b0039a"
+        },
+        "arbok": {
+          "file": "arbok.png",
+          "bytes": 181492,
+          "sha256": "f1e38593fba1de6e6db3d5db819f1b851307f342abb819f9c2ebfbbea9b93d42"
+        },
+        "arcanine": {
+          "file": "arcanine.png",
+          "bytes": 197883,
+          "sha256": "4461b18982bbed0d9384ebcf99015347ff47a4e9dc926476d779c83ebd2d7093"
+        },
+        "arcaninehisui": {
+          "file": "arcaninehisui.png",
+          "bytes": 151774,
+          "sha256": "e98cb4b19ce33d79404553fc7892a6e1a6b4ce2e934b275d87b940c104e6927e"
+        },
+        "archaludon": {
+          "file": "archaludon.png",
+          "bytes": 166623,
+          "sha256": "00dc356abdfec19f9dd9a687397d41740f1f32501c60f17c5ed7a225b73b44a8"
+        },
+        "ariados": {
+          "file": "ariados.png",
+          "bytes": 145950,
+          "sha256": "7f84c37209cbd24f5bb894359172669102cd297d87dfa6f2d8efe3c711c5657f"
+        },
+        "armarouge": {
+          "file": "armarouge.png",
+          "bytes": 127234,
+          "sha256": "b0ff7cab861612f623256b4f1748b020ac6611ff033e088bbabc1a6301cd7b01"
+        },
+        "aromatisse": {
+          "file": "aromatisse.png",
+          "bytes": 154513,
+          "sha256": "bced310d6f9983b006f12ac0ffaa752ed49e63f8d22f425e115d3514117805cc"
+        },
+        "audino": {
+          "file": "audino.png",
+          "bytes": 145671,
+          "sha256": "42c151039a91c9ed795f6aa08574eeb60590c5186462ad3bbfd5d198571b8ef2"
+        },
+        "audinomega": {
+          "file": "audinomega.png",
+          "bytes": 128852,
+          "sha256": "a931b76a858904af313731debd3b5388372b2d1f45fb2ba1dabe9d5cdd0837e9"
+        },
+        "aurorus": {
+          "file": "aurorus.png",
+          "bytes": 139597,
+          "sha256": "d62aac6f16364d73762c55cca958377eb21a6ddde018a620f1629d6942e95012"
+        },
+        "avalugg": {
+          "file": "avalugg.png",
+          "bytes": 144476,
+          "sha256": "fcf36b688c589f82de09a0c70a0bcb1a2b2027931c6f6ef9d8bd56ef400349eb"
+        },
+        "avalugghisui": {
+          "file": "avalugghisui.png",
+          "bytes": 135044,
+          "sha256": "08d5c91f31d4d116e01f4312a404843e2eac07385c2984d49267c1f3541a44a6"
+        },
+        "azumarill": {
+          "file": "azumarill.png",
+          "bytes": 144485,
+          "sha256": "a55c0d5b890fb2bcb90a3ea0dbc13fa53e2f54bdbed45d585975d05e77c123a2"
+        },
+        "banette": {
+          "file": "banette.png",
+          "bytes": 122239,
+          "sha256": "87118eb5533d59b822014f09330221a4227c632b88a4241b764c45d5ef614b40"
+        },
+        "banettemega": {
+          "file": "banettemega.png",
+          "bytes": 135182,
+          "sha256": "26c1bd0e997c574eccb837defef90f281f351e06458cd57cc946fc8c35b728a1"
+        },
+        "basculegion": {
+          "file": "basculegion.png",
+          "bytes": 142322,
+          "sha256": "52d42b194bb8421c4a14f4cbcdae5ab323380d2374f60844ffc2838a9d5e73cb"
+        },
+        "basculegionf": {
+          "file": "basculegionf.png",
+          "bytes": 110814,
+          "sha256": "d76e3ba7087644711c63df72f0167b62f704ba22f597398b8af539fd2c99bc1c"
+        },
+        "bastiodon": {
+          "file": "bastiodon.png",
+          "bytes": 173450,
+          "sha256": "9cc46414e2386e784626ba9711ec9ed93e2d1fbb08aad1aca89ffbf05841d700"
+        },
+        "beartic": {
+          "file": "beartic.png",
+          "bytes": 120604,
+          "sha256": "1de9e6735fc393bccea3b0668e1a5fc3dec85bf3f5114e8fc02725c24b61b842"
+        },
+        "beedrill": {
+          "file": "beedrill.png",
+          "bytes": 146566,
+          "sha256": "87bec9bd0348a95d7b108fb00737c48b3315d51c335b31ec89a471e21c1a1016"
+        },
+        "beedrillmega": {
+          "file": "beedrillmega.png",
+          "bytes": 152077,
+          "sha256": "4b2d60b3cf86b29e332059b7fa3b4b774883e9b6bdeb34cf7ee85cbaf56c7a3d"
+        },
+        "bellibolt": {
+          "file": "bellibolt.png",
+          "bytes": 105171,
+          "sha256": "9dc693989f83c507218291348648ee9be808d4a78bb9831f48b67b3e9052842e"
+        },
+        "blastoise": {
+          "file": "blastoise.png",
+          "bytes": 197853,
+          "sha256": "ba0a6b633e7a5d5a8c52498b0556518005fd4c63ef4564a8b06b79a73905a635"
+        },
+        "blastoisemega": {
+          "file": "blastoisemega.png",
+          "bytes": 173732,
+          "sha256": "68775044cf56a89e7a68630891891ddb193f13ab562b3cfcafa09cef5479c5a0"
+        },
+        "camerupt": {
+          "file": "camerupt.png",
+          "bytes": 164139,
+          "sha256": "abd4b65d46f47ea847119a18eb3a65e5dc8ea3f61fb95a49121c5b15c33e3229"
+        },
+        "cameruptmega": {
+          "file": "cameruptmega.png",
+          "bytes": 157560,
+          "sha256": "0fb2bdf3981de023ae9596f590f3c356396dbdd4b138f05993d4b73e2ae418a7"
+        },
+        "castform": {
+          "file": "castform.png",
+          "bytes": 90331,
+          "sha256": "1b8c7552ca689af4787113caaa140f3f617c50156a398c670cfa109b1828abba"
+        },
+        "ceruledge": {
+          "file": "ceruledge.png",
+          "bytes": 127725,
+          "sha256": "0013d5f503037eb0fe545ea553c781f751df8f385382d4042e0a60a2060fde14"
+        },
+        "chandelure": {
+          "file": "chandelure.png",
+          "bytes": 122939,
+          "sha256": "c4dc9669beb0d42295e776a823aa6874e62bdecb83e1bc7b8cf28bfabdc91840"
+        },
+        "chandeluremega": {
+          "file": "chandeluremega.png",
+          "bytes": 34408,
+          "sha256": "402ae5bd39647271e3aae2e01eeb0d3f030b3877baaec755ebb517930b0d8dc6"
+        },
+        "charizard": {
+          "file": "charizard.png",
+          "bytes": 144568,
+          "sha256": "b6d5b8ee9fb05dc6f53294b2cae660dec770b92762cdb19d16bcbd679e1ba43a"
+        },
+        "charizardmegax": {
+          "file": "charizardmegax.png",
+          "bytes": 170074,
+          "sha256": "d7650ad47e44981447de3f558e5b4a102d1b378559b33608352287a824c1d68d"
+        },
+        "charizardmegay": {
+          "file": "charizardmegay.png",
+          "bytes": 152506,
+          "sha256": "c22b1f5d692e7ce241a2784ab4816ad362140e266173968c4facc7d310e84d13"
+        },
+        "chesnaught": {
+          "file": "chesnaught.png",
+          "bytes": 156118,
+          "sha256": "c180b69f7b59f6d41ef48aa080449766286f73f39ce9f4df09a2455a935722b1"
+        },
+        "chesnaughtmega": {
+          "file": "chesnaughtmega.png",
+          "bytes": 58609,
+          "sha256": "3269a14e83bb987581f93b30463f2b543592ec765d1fe5af2d57eb3b6e32edc4"
+        },
+        "chimecho": {
+          "file": "chimecho.png",
+          "bytes": 50980,
+          "sha256": "5153dadd3dc75ce579909e8f6e25746b207d507b65deef4754fa826adf5f23a2"
+        },
+        "chimechomega": {
+          "file": "chimechomega.png",
+          "bytes": 57811,
+          "sha256": "d18868dc6da0a0fa77ca2d9f91bb37fb4dc72b29792e7e34bcf4cab2be782a18"
+        },
+        "clawitzer": {
+          "file": "clawitzer.png",
+          "bytes": 82343,
+          "sha256": "f85dc9aa047b80f8eada8794e17ab687ba43fe99e190ccf5031b58ec8b68a188"
+        },
+        "clefable": {
+          "file": "clefable.png",
+          "bytes": 157629,
+          "sha256": "7a3c310640c4ba6671fa34ceaf43116745cfc9cc13621660f60d6215cd202eda"
+        },
+        "clefablemega": {
+          "file": "clefablemega.png",
+          "bytes": 25963,
+          "sha256": "6d3ae2d7909f99c2666d2ce3ede076f9b9958df753dae86c0e82b0c3c0b934ce"
+        },
+        "cofagrigus": {
+          "file": "cofagrigus.png",
+          "bytes": 122505,
+          "sha256": "7be39d69a8e069e1eb6902cbcad4f0b6be087b3c1da68a54381cf5af95b2a4d1"
+        },
+        "conkeldurr": {
+          "file": "conkeldurr.png",
+          "bytes": 164524,
+          "sha256": "73d17912f1514274ceec7a41bcb4dd279ee8550201037b69b49caf9984b58188"
+        },
+        "corviknight": {
+          "file": "corviknight.png",
+          "bytes": 110183,
+          "sha256": "f6bc05f08b586cac13883360232a5369c9e0873dee6f9cb83fba27e62cf76ab9"
+        },
+        "crabominable": {
+          "file": "crabominable.png",
+          "bytes": 120087,
+          "sha256": "1ad0547e4eab59609f5820f2f41c03dfff17be2e36fc5c0d2c71df162f8fdff9"
+        },
+        "crabominablemega": {
+          "file": "crabominablemega.png",
+          "bytes": 61920,
+          "sha256": "ff8236a75ae84933173961264a336b1ae3fcbae81167cf94e1c365b0a7d27b0e"
+        },
+        "decidueye": {
+          "file": "decidueye.png",
+          "bytes": 124222,
+          "sha256": "bb6827d337596159bca7937ee773c4d25a8aa37ae66b238b6d3deefe33fb166c"
+        },
+        "decidueyehisui": {
+          "file": "decidueyehisui.png",
+          "bytes": 166501,
+          "sha256": "b330b3803fa8d2a8d070a4643c7951c0499b918f5639ec1910de11ebd81d9d2b"
+        },
+        "dedenne": {
+          "file": "dedenne.png",
+          "bytes": 160684,
+          "sha256": "505152d09bedbb3013f96d347eac1d76fe6b4f6f24675c534fc24efd027111e2"
+        },
+        "delphox": {
+          "file": "delphox.png",
+          "bytes": 127262,
+          "sha256": "6c96ec531064017b5efc94ac84bedc85eac54cb814a31e48a2116017670d08b4"
+        },
+        "delphoxmega": {
+          "file": "delphoxmega.png",
+          "bytes": 42600,
+          "sha256": "80f6f9264afe4e3fcfe7fd38ffcb312c3e1b2199dfeeca6b2699d5c07c7e239d"
+        },
+        "diggersby": {
+          "file": "diggersby.png",
+          "bytes": 138484,
+          "sha256": "47b02d33f186413c298a8fc4149c347a5e93305c4217ddeff94b678aa5d8f8cd"
+        },
+        "ditto": {
+          "file": "ditto.png",
+          "bytes": 129274,
+          "sha256": "5f7be2f22d06658a52b4e863a22e37d8904e539d9d8e23f15d4ea869b095e21f"
+        },
+        "dragapult": {
+          "file": "dragapult.png",
+          "bytes": 159001,
+          "sha256": "ee19f0d35c248baf2be61e1a91b6cdb9dbe701fb81dbb070347d1832e3df4f00"
+        },
+        "dragonite": {
+          "file": "dragonite.png",
+          "bytes": 132064,
+          "sha256": "4bd7549caa15eac43a8197ba53e843a95f2b56c71b1121829ea76764fbf26f9c"
+        },
+        "dragonitemega": {
+          "file": "dragonitemega.png",
+          "bytes": 66802,
+          "sha256": "131695e511a32ec999144ed2c2410c8c7e742b38dd6ca0b30dcb1146c9a2eebd"
+        },
+        "drampa": {
+          "file": "drampa.png",
+          "bytes": 115201,
+          "sha256": "bf20e323b934fd06760fe6c380673804cbb319ed9906407fabbb8afb13b04b5e"
+        },
+        "drampamega": {
+          "file": "drampamega.png",
+          "bytes": 50101,
+          "sha256": "99b1ce0d12316833b3a066c42dacd1b11d30ea0f1903c992de87705edd736e3f"
+        },
+        "emboar": {
+          "file": "emboar.png",
+          "bytes": 199396,
+          "sha256": "ab35dc92a353a2cacedaba416a22e29eedc6b998562010e211e1dfcae618b63d"
+        },
+        "emboarmega": {
+          "file": "emboarmega.png",
+          "bytes": 56188,
+          "sha256": "f01ff6da7df9a5ac4a2fbc668aa694bce59d8c0ecca51671b5faee0b982107a4"
+        },
+        "emolga": {
+          "file": "emolga.png",
+          "bytes": 106228,
+          "sha256": "921748d60160341d92b4f1e6f69bebe699e425f43acd04768192f7cf635a4d30"
+        },
+        "empoleon": {
+          "file": "empoleon.png",
+          "bytes": 126789,
+          "sha256": "4d8697a9e331f7bc6b57495d5bb1f7df049ab94aaaa66e2a3ea9131eec067f0c"
+        },
+        "espathra": {
+          "file": "espathra.png",
+          "bytes": 136217,
+          "sha256": "7352ce61e917db10ee94d2930226f3ae692723bef36a4b0e8f9465e40da55f39"
+        },
+        "espeon": {
+          "file": "espeon.png",
+          "bytes": 104026,
+          "sha256": "d0e74b02adc3df07f9bf026303b1068c58183f8703ae2ca42b8d7b58e9a0696f"
+        },
+        "excadrill": {
+          "file": "excadrill.png",
+          "bytes": 134799,
+          "sha256": "3f0376151a774ee61cb39fe8ef968e999555cb9ae3cca1fd45a531acb73ebe73"
+        },
+        "excadrillmega": {
+          "file": "excadrillmega.png",
+          "bytes": 34393,
+          "sha256": "7fe22e3c468001612206acfd21bb46bcf4c82c95dde5a2ab8f52356d7d15a63d"
+        },
+        "farigiraf": {
+          "file": "farigiraf.png",
+          "bytes": 84061,
+          "sha256": "b9d80d126927272324d996547dae09c441bc82470d5399092a7ebd4b87a6af03"
+        },
+        "feraligatr": {
+          "file": "feraligatr.png",
+          "bytes": 163579,
+          "sha256": "dbf82434fe9635c37c05a16f5e7cf74abcb1ebd1543f1bc16905a953d4a98c14"
+        },
+        "feraligatrmega": {
+          "file": "feraligatrmega.png",
+          "bytes": 50102,
+          "sha256": "e731d1f490d0cdc848e5ac86abbada326ebeb89e58814edc384a4d8dce72b926"
+        },
+        "flapple": {
+          "file": "flapple.png",
+          "bytes": 105342,
+          "sha256": "af602eef56e7b03a1baf1c8b03d6e1cabdaa29bc99da51dd9d70fcb036aa5a6f"
+        },
+        "flareon": {
+          "file": "flareon.png",
+          "bytes": 149971,
+          "sha256": "a11d3f021baf917f9106266d5fec5b6326a2850b130e4560e333fa9f481c41ec"
+        },
+        "floetteeternal": {
+          "file": "floetteeternal.png",
+          "bytes": 123250,
+          "sha256": "0fd6f33342970033f592aea38d5834584bf106a195485b7e69bff7fd0236d7c7"
+        },
+        "floettemega": {
+          "file": "floettemega.png",
+          "bytes": 26862,
+          "sha256": "17c5da4d419f51a3798b25090d6d054507b52cf6b161e62250107054f98633ca"
+        },
+        "florges": {
+          "file": "florges.png",
+          "bytes": 144919,
+          "sha256": "b6b4346ffb5b500b241ef6e27c9bb65d410e0c2ce32fe513eba58eb6d46eb127"
+        },
+        "forretress": {
+          "file": "forretress.png",
+          "bytes": 164354,
+          "sha256": "1ae19ac7d15ccb9b82848c85e4e63a10c4759aa84434d3ddb757ff182f69271f"
+        },
+        "froslass": {
+          "file": "froslass.png",
+          "bytes": 127179,
+          "sha256": "ab2ee1564be21553415e4ad57be506a37e78853547585a9f9a45d6e86f3eed1a"
+        },
+        "froslassmega": {
+          "file": "froslassmega.png",
+          "bytes": 37068,
+          "sha256": "443dff1436cd11e60414c84670638d9ad3836574c24484e53520a6b5a209df2f"
+        },
+        "furfrou": {
+          "file": "furfrou.png",
+          "bytes": 146628,
+          "sha256": "2400c013fc62421162ee97d6d6a711f2c69cf42102e4f4b49181e590aaafbfc5"
+        },
+        "gallade": {
+          "file": "gallade.png",
+          "bytes": 97467,
+          "sha256": "ae5db3774ea3c639e3f7b03be4dbd367e959c2892e91967f8501cddcaa782d59"
+        },
+        "gallademega": {
+          "file": "gallademega.png",
+          "bytes": 128071,
+          "sha256": "77198c080e6bc9f1f937ecd8679a942eb4bb324f83619c382092ff38bb5e52c0"
+        },
+        "garbodor": {
+          "file": "garbodor.png",
+          "bytes": 177350,
+          "sha256": "89e02355cedd4ad5877030179bf34c085d1bba5835baff001a8f3e27bc640e0d"
+        },
+        "garchomp": {
+          "file": "garchomp.png",
+          "bytes": 152831,
+          "sha256": "c9122fe26666487f152bc299ce73257141d5e762d486ac49867c97b19342980f"
+        },
+        "garchompmega": {
+          "file": "garchompmega.png",
+          "bytes": 122018,
+          "sha256": "f96630560e83330e537e85505a035f5558da644cf57d2790d1d01f7ffb89a89c"
+        },
+        "gardevoir": {
+          "file": "gardevoir.png",
+          "bytes": 112206,
+          "sha256": "ac40b3e87de95706cae9631802b975882f9830c1528253d367cfa7fd3f2957bd"
+        },
+        "gardevoirmega": {
+          "file": "gardevoirmega.png",
+          "bytes": 116478,
+          "sha256": "964b98a76b38a00627d19e61e3d23071ff95b945b4ef5eab96646ada56653098"
+        },
+        "garganacl": {
+          "file": "garganacl.png",
+          "bytes": 121532,
+          "sha256": "6419081de708795dbae6ad75845cdc80673bce7821b4771e75cdf2dce4b8a180"
+        },
+        "gengar": {
+          "file": "gengar.png",
+          "bytes": 144713,
+          "sha256": "b6549b80537676fcf4a589c8853b38cce42f42b5f707bbe2e63797666175cf06"
+        },
+        "gengarmega": {
+          "file": "gengarmega.png",
+          "bytes": 145543,
+          "sha256": "d0bf0d4214986de3782e8c459798487a89de6ccafa2fe591c219aee33287415d"
+        },
+        "glaceon": {
+          "file": "glaceon.png",
+          "bytes": 93967,
+          "sha256": "bc7c93a32e133f9e560b38722d0bc4992b7bb8d1cd902de984ccbd872a19f71b"
+        },
+        "glalie": {
+          "file": "glalie.png",
+          "bytes": 151601,
+          "sha256": "18569123d7c5a6bbab377dead11071811024d04b88ef712dacb7ead5bfe01b58"
+        },
+        "glaliemega": {
+          "file": "glaliemega.png",
+          "bytes": 179810,
+          "sha256": "6abc54c1db8b14d8a04f531cc15307631fdf91b00cc3f4078bd9fca063bfd414"
+        },
+        "glimmora": {
+          "file": "glimmora.png",
+          "bytes": 131063,
+          "sha256": "de55a14c4c684b8a62a3d5a3002a1abfd11f53ba99f038210244745f346a27bd"
+        },
+        "glimmoramega": {
+          "file": "glimmoramega.png",
+          "bytes": 46881,
+          "sha256": "ac618185cd0392296a5381b9deff8537ef250776eca9442972c62ee9f8492fcd"
+        },
+        "gliscor": {
+          "file": "gliscor.png",
+          "bytes": 149822,
+          "sha256": "9e902ab70836789a73430ad13ed6420b703f357cafc4c827ef2138a7856a7a60"
+        },
+        "golurk": {
+          "file": "golurk.png",
+          "bytes": 214599,
+          "sha256": "0d59fcbba2fbdc98e8d825d88a94012d60e7b54e1e09034aca2f51ed4abf4098"
+        },
+        "golurkmega": {
+          "file": "golurkmega.png",
+          "bytes": 64354,
+          "sha256": "4ebc7e8e9f6391ddc95f4a144314e26899b269974853a79584060b38e1c80426"
+        },
+        "goodra": {
+          "file": "goodra.png",
+          "bytes": 122270,
+          "sha256": "d7b5bfbaa321940e254b2b9be2815827005d2e5bca40b52a6e600c26e44a0f8b"
+        },
+        "goodrahisui": {
+          "file": "goodrahisui.png",
+          "bytes": 114235,
+          "sha256": "34f333f166e94cf9f5913fa18e12c3a3d8e3708e7c0e10643fe66b8eecceaa2a"
+        },
+        "gourgeist": {
+          "file": "gourgeist.png",
+          "bytes": 126601,
+          "sha256": "6c25b571f3d1eb23bfe549948aa08032279600e4f3a5448670609029303d2959"
+        },
+        "gourgeistlarge": {
+          "file": "gourgeistlarge.png",
+          "bytes": 126601,
+          "sha256": "6c25b571f3d1eb23bfe549948aa08032279600e4f3a5448670609029303d2959"
+        },
+        "gourgeistsmall": {
+          "file": "gourgeistsmall.png",
+          "bytes": 126601,
+          "sha256": "6c25b571f3d1eb23bfe549948aa08032279600e4f3a5448670609029303d2959"
+        },
+        "gourgeistsuper": {
+          "file": "gourgeistsuper.png",
+          "bytes": 126601,
+          "sha256": "6c25b571f3d1eb23bfe549948aa08032279600e4f3a5448670609029303d2959"
+        },
+        "greninja": {
+          "file": "greninja.png",
+          "bytes": 91388,
+          "sha256": "e88f4590ff53a8f8965c9e1be19a0f069c51c4dc7ca64ecb25ac96c64c8504d3"
+        },
+        "greninjamega": {
+          "file": "greninjamega.png",
+          "bytes": 29690,
+          "sha256": "417b5aeaa97b618211f3c8c9336e2a6da80f3c6104db71e1fb575805cf44b995"
+        },
+        "gyarados": {
+          "file": "gyarados.png",
+          "bytes": 146784,
+          "sha256": "41d17760b81321cc7a3fb2cb1568d3c33010e892b687eeacb3738ba307071f8b"
+        },
+        "gyaradosmega": {
+          "file": "gyaradosmega.png",
+          "bytes": 165764,
+          "sha256": "325994347779ceb88aa2c18a3c5ea4731419e8c20758377e879f6ddff6bac7e1"
+        },
+        "hatterene": {
+          "file": "hatterene.png",
+          "bytes": 96097,
+          "sha256": "c78f9709fa359636d32f452325d57155058ecdbd4fed2971ef6a1a29d312f5ac"
+        },
+        "hawlucha": {
+          "file": "hawlucha.png",
+          "bytes": 124806,
+          "sha256": "041072a1c2ef2b141295050f97a51132370e4db24da7f45286d9f96a1210543e"
+        },
+        "hawluchamega": {
+          "file": "hawluchamega.png",
+          "bytes": 53778,
+          "sha256": "e8eb83d03fca88606b1a3fe3eec168b6c575dabdffa6fe9c496b4b4c33b2f56e"
+        },
+        "heliolisk": {
+          "file": "heliolisk.png",
+          "bytes": 84573,
+          "sha256": "9dbd958d586bb8d2b4ac8895b83c3496d945e713d92ca003232e23b7c7f7f382"
+        },
+        "heracross": {
+          "file": "heracross.png",
+          "bytes": 126758,
+          "sha256": "227abfbedbdfec11c8255c471b465fa79604224687eccbbc4f77b92817acbebd"
+        },
+        "heracrossmega": {
+          "file": "heracrossmega.png",
+          "bytes": 124609,
+          "sha256": "b71ee289107d5fc2bd637d139d0b4bbf3b8475b2e6ead429beff0652318af825"
+        },
+        "hippowdon": {
+          "file": "hippowdon.png",
+          "bytes": 137082,
+          "sha256": "b4e107152d0b2a7aadb2470583335deb345a205d8ecad396cc35c5fa2c864566"
+        },
+        "houndoom": {
+          "file": "houndoom.png",
+          "bytes": 121318,
+          "sha256": "9e1244e7f417cbb7c45c35681544989da2f3fa7df3a9c7135e0cb55c711590f0"
+        },
+        "houndoommega": {
+          "file": "houndoommega.png",
+          "bytes": 119346,
+          "sha256": "42cc8d7923cd126115c5dbd9bf0aaf8eea6fbeedc8979e7a43b6dd9c60f2da53"
+        },
+        "hydrapple": {
+          "file": "hydrapple.png",
+          "bytes": 104219,
+          "sha256": "2ce688f10809dfc18b2a5fe3cdf123175f823ac8e3ac57a1f18c6aeee5e4fe51"
+        },
+        "hydreigon": {
+          "file": "hydreigon.png",
+          "bytes": 149686,
+          "sha256": "74b0d31de02ec0c2350fccce401190f196037d51f17a5931a04ff9b2d67a2c3b"
+        },
+        "incineroar": {
+          "file": "incineroar.png",
+          "bytes": 96193,
+          "sha256": "7978632503c045c8e0dd53f7e31f563fa25ec7f7e5b369261d13dab62b2e92cb"
+        },
+        "infernape": {
+          "file": "infernape.png",
+          "bytes": 173856,
+          "sha256": "0b23361c54a8c17ff414a0abfb79bf642fb9443dc0163e3c6162346c5558e8e3"
+        },
+        "jolteon": {
+          "file": "jolteon.png",
+          "bytes": 141908,
+          "sha256": "bf525c20b899e08398d93d0436d2e592463068d85da8760424ac340c7f8f8ed8"
+        },
+        "kangaskhan": {
+          "file": "kangaskhan.png",
+          "bytes": 183110,
+          "sha256": "bc2424e71902a870074096821791b089969b88fdf766fc5675927dacd9c29d48"
+        },
+        "kangaskhanmega": {
+          "file": "kangaskhanmega.png",
+          "bytes": 202697,
+          "sha256": "f742406a09c65cd435df5ad3bd15bc107951eb30e9970935dafe505fd0479737"
+        },
+        "kingambit": {
+          "file": "kingambit.png",
+          "bytes": 124566,
+          "sha256": "6b5ba19f7c1c880ecb95bf692444949bc93af0d5128be80932ef9a9043f10455"
+        },
+        "kleavor": {
+          "file": "kleavor.png",
+          "bytes": 131772,
+          "sha256": "58e2ac2b61210efc00bc79b41dcd1267824fb1c71aae2f5a1cf4cfe3ecef8714"
+        },
+        "klefki": {
+          "file": "klefki.png",
+          "bytes": 93562,
+          "sha256": "617a8bd49051f91b1d41629c5e20160580a3989ad95e1cf7a923a07c5c11435f"
+        },
+        "kommoo": {
+          "file": "kommoo.png",
+          "bytes": 167044,
+          "sha256": "882235f7647c8795b1b27cedb6f62ee5c229730e5f28cb239485d504f312f15c"
+        },
+        "krookodile": {
+          "file": "krookodile.png",
+          "bytes": 176677,
+          "sha256": "f9bea552e4bab77af86079a73b314c7598a3efc184dd36f37ddcc9e3fa154df0"
+        },
+        "leafeon": {
+          "file": "leafeon.png",
+          "bytes": 141615,
+          "sha256": "3cb145cfafe87da63f75d80d2540e2f7f61c3c97275ff4231a462d949f4bd339"
+        },
+        "liepard": {
+          "file": "liepard.png",
+          "bytes": 116035,
+          "sha256": "94ec6871a6d61d2a5bc286b75f72382e4a60076f66304cbc22f35ebab75c63e7"
+        },
+        "lopunny": {
+          "file": "lopunny.png",
+          "bytes": 136242,
+          "sha256": "f2aaf542f2c6392e484241febf471eacebbd810ea21dd54af34e72afb8e58938"
+        },
+        "lopunnymega": {
+          "file": "lopunnymega.png",
+          "bytes": 118061,
+          "sha256": "e896b108c4e9ebcca67e1ad48fa15e5306dd06b949647a248af310d790791da2"
+        },
+        "lucario": {
+          "file": "lucario.png",
+          "bytes": 91289,
+          "sha256": "8c5064f1d4a37c8b554d7ad83d77970b02d6875750f934c782493c83f8943127"
+        },
+        "lucariomega": {
+          "file": "lucariomega.png",
+          "bytes": 138895,
+          "sha256": "2f31714a341ae4adcfff9bc406f2fac662b081c18a4c532b02c03357a257acd1"
+        },
+        "luxray": {
+          "file": "luxray.png",
+          "bytes": 134731,
+          "sha256": "02e63bb1b1682340a583de8a68767dfafa81fcf0103bc5ad5f0a26c847e324d4"
+        },
+        "lycanroc": {
+          "file": "lycanroc.png",
+          "bytes": 104716,
+          "sha256": "bbf9857260d2b19f6a7e3a7f2b34cab13e65dd977583badc01255a41b30b0a50"
+        },
+        "lycanrocdusk": {
+          "file": "lycanrocdusk.png",
+          "bytes": 98879,
+          "sha256": "9e8bf7acee3f3b9bcc58d01ca23ff8e305939d2f1bd6d990e973af3586fa4294"
+        },
+        "lycanrocmidnight": {
+          "file": "lycanrocmidnight.png",
+          "bytes": 117376,
+          "sha256": "7b5a48d91d0e5741bd7deec45cc3b169cef41f15c45e614f22915b6865ecfc2c"
+        },
+        "machamp": {
+          "file": "machamp.png",
+          "bytes": 151393,
+          "sha256": "5d124f441d6690e19de8685e30b1e5d375f2fd6dd91be5cfd164dacf6853f7e6"
+        },
+        "mamoswine": {
+          "file": "mamoswine.png",
+          "bytes": 155437,
+          "sha256": "51dff25e8e46efbfe388bbc1f4122998334afd0a323a4a0ad1774f51fed1ed48"
+        },
+        "manectric": {
+          "file": "manectric.png",
+          "bytes": 126810,
+          "sha256": "f09e58377f721f09fb02cc8b532921d911d10003ae9b515a0884fd2c6d84dfb9"
+        },
+        "manectricmega": {
+          "file": "manectricmega.png",
+          "bytes": 148328,
+          "sha256": "1ba35ae5134f9acaabcd5bfc94dff8afb48befe6da48cdca7857ba20f9658736"
+        },
+        "maushold": {
+          "file": "maushold.png",
+          "bytes": 99129,
+          "sha256": "3ad979acad528c618d916ab257379144f7eed0a7e33c9414bf94dfa996f9425f"
+        },
+        "medicham": {
+          "file": "medicham.png",
+          "bytes": 89101,
+          "sha256": "b36a23b133cd13651f216e945632e9099d643c11afd30962f7b457b2cef00940"
+        },
+        "medichammega": {
+          "file": "medichammega.png",
+          "bytes": 140378,
+          "sha256": "1c2ff743f9bf4bd74cdb94e4fac5eb5236b632976c0a1d3c50ace5c75b9783d2"
+        },
+        "meganium": {
+          "file": "meganium.png",
+          "bytes": 116836,
+          "sha256": "fc2b42d8c484a48df1102980e4fe21d7e280e7c1b904cd2fd3a3a110adc978b3"
+        },
+        "meganiummega": {
+          "file": "meganiummega.png",
+          "bytes": 34514,
+          "sha256": "943ae7680e529f38619d6c585dac27c85fea0ae40497fa0aaaccb0844568d8ce"
+        },
+        "meowscarada": {
+          "file": "meowscarada.png",
+          "bytes": 125208,
+          "sha256": "c8f79c0bb80a6f1f5e3bf0ae6cbe4c44421e14494f3432915b2fc9b8d4776b54"
+        },
+        "meowstic": {
+          "file": "meowstic.png",
+          "bytes": 157097,
+          "sha256": "1a54e28587fcd1617bccd93f8230bff8029fb061cb82c6a869be0456996e5eca"
+        },
+        "meowsticfmega": {
+          "file": "meowsticfmega.png",
+          "bytes": 28576,
+          "sha256": "43df0a7b80ff176a245fdcf5ea228c8b5e13fe7e16f97cc923ece5cab8f9ef11"
+        },
+        "meowsticmmega": {
+          "file": "meowsticmmega.png",
+          "bytes": 28576,
+          "sha256": "43df0a7b80ff176a245fdcf5ea228c8b5e13fe7e16f97cc923ece5cab8f9ef11"
+        },
+        "milotic": {
+          "file": "milotic.png",
+          "bytes": 164467,
+          "sha256": "b64a73b400ab342ecc7933992c57e67605ae717028185edf451d60a6d9bdcf2c"
+        },
+        "mimikyu": {
+          "file": "mimikyu.png",
+          "bytes": 79510,
+          "sha256": "3f368b3fb05af171b6ac0ce893ee065aea6e608be45e04087af1902fc43ab708"
+        },
+        "morpeko": {
+          "file": "morpeko.png",
+          "bytes": 88056,
+          "sha256": "e6a1bd4f20df13dc5f09ed811695e7a53b1120e9eff47e537e732cac046cf8be"
+        },
+        "mrrime": {
+          "file": "mrrime.png",
+          "bytes": 139090,
+          "sha256": "a13c9d321795d21f3c485bf08b1c12a74772c99a218bb0bb8ad152074621b886"
+        },
+        "mudsdale": {
+          "file": "mudsdale.png",
+          "bytes": 142251,
+          "sha256": "d4d7385c94b46031992b32877bd7668aa3a0f5e70a2f6a94a0e82dc8e8f6a539"
+        },
+        "ninetales": {
+          "file": "ninetales.png",
+          "bytes": 184128,
+          "sha256": "e60b06bf0aa8b23a593958cc32806534a3553707797be10767550a6f4ddb9068"
+        },
+        "ninetalesalola": {
+          "file": "ninetalesalola.png",
+          "bytes": 132568,
+          "sha256": "d5cfa322d05e9bc110803e8fa361c5a2c74e078d8dade87caca083e6ae834477"
+        },
+        "noivern": {
+          "file": "noivern.png",
+          "bytes": 123570,
+          "sha256": "05ff4bc3bd6bbff5f1eb3b975787cbefea7102ca238d8a16d0713c9fd6ee2bc6"
+        },
+        "oranguru": {
+          "file": "oranguru.png",
+          "bytes": 172169,
+          "sha256": "a9e429e4330e9326884837e6c066bd31cd3ed36062565e560cc250d84322947a"
+        },
+        "orthworm": {
+          "file": "orthworm.png",
+          "bytes": 145459,
+          "sha256": "e7e82066607fe0f88e479a436dd2df8c130b10d9572311148d040d7334a23360"
+        },
+        "palafin": {
+          "file": "palafin.png",
+          "bytes": 82384,
+          "sha256": "60a2225a9b929e70f521ae1b781a1b487e735ab07a00b766e7168241afa6210d"
+        },
+        "pangoro": {
+          "file": "pangoro.png",
+          "bytes": 135735,
+          "sha256": "8462e93ead3eb900993bcf6bb4ebdd547bb955533b35e01d7ac7f0f8f5029512"
+        },
+        "passimian": {
+          "file": "passimian.png",
+          "bytes": 111075,
+          "sha256": "42834ce883954876a957e02f378d893b2b35f2ebc511a39d8785244fabaafdb4"
+        },
+        "pelipper": {
+          "file": "pelipper.png",
+          "bytes": 130668,
+          "sha256": "fcfd21fd7c13cae911b888cef149d2f6c76c81624efaa2db7ec00b34ade1d14e"
+        },
+        "pidgeot": {
+          "file": "pidgeot.png",
+          "bytes": 147161,
+          "sha256": "0f2cf5f30ee821f867cdced8d64fa87a11ae01643bb48c10296ee1ffdc18ca14"
+        },
+        "pidgeotmega": {
+          "file": "pidgeotmega.png",
+          "bytes": 156103,
+          "sha256": "599e2853f8a26f83691dcc5f6ab79a84ac4b88df756be4ccd20ce18e3cecff12"
+        },
+        "pikachu": {
+          "file": "pikachu.png",
+          "bytes": 118057,
+          "sha256": "759ceafdb4b8d637dfcfe673cf672bc3c472354a3b2e7e0835d9cdcacd8d195d"
+        },
+        "pinsir": {
+          "file": "pinsir.png",
+          "bytes": 142435,
+          "sha256": "badba34a0d5e77e7fa0b553b7e148c157b4bf15ee3c3d44a6ad1de1067c7c447"
+        },
+        "pinsirmega": {
+          "file": "pinsirmega.png",
+          "bytes": 143574,
+          "sha256": "d004223a18364dac0cc935a00930d9e6c2a75f9db881a680883829bd834a6bfc"
+        },
+        "politoed": {
+          "file": "politoed.png",
+          "bytes": 119570,
+          "sha256": "a204b4f908fb2b3174e79b40e634064cb39f43d4d9dcc5f0e9a2df4fd9d67d3e"
+        },
+        "polteageist": {
+          "file": "polteageist.png",
+          "bytes": 129639,
+          "sha256": "bbec8f8a6dc1466150779d749017484034b3132e3d30cb255b7172768a05ba45"
+        },
+        "primarina": {
+          "file": "primarina.png",
+          "bytes": 118938,
+          "sha256": "5af256ff00cd759238a7ca7c91083f8810347b0a4cd8579ff1a2f5955b8ad3fc"
+        },
+        "quaquaval": {
+          "file": "quaquaval.png",
+          "bytes": 112478,
+          "sha256": "03d904ef9156559923378ab8051ab512f106fac1667dfc7c058275673b7a75d1"
+        },
+        "raichu": {
+          "file": "raichu.png",
+          "bytes": 94288,
+          "sha256": "e5671c5f00695fa6f6a3fc08a70d0b53a34e14f5dafcccc66316bdee90d076ac"
+        },
+        "raichualola": {
+          "file": "raichualola.png",
+          "bytes": 119545,
+          "sha256": "0cc06daa4c80f2277ae50cb722099ec6f1d4327dfd59012ad868a01a1bad8a4e"
+        },
+        "rampardos": {
+          "file": "rampardos.png",
+          "bytes": 126570,
+          "sha256": "5a4bccdfd1accec3d88e7b9e3d52962a5933ad47ac8e969bfd87b27c71ff10ff"
+        },
+        "reuniclus": {
+          "file": "reuniclus.png",
+          "bytes": 83412,
+          "sha256": "a4fb21b2d0c321541d70fe4cd18762ba8cdde2c5e5c0a3b9d82dd663664c2f06"
+        },
+        "rhyperior": {
+          "file": "rhyperior.png",
+          "bytes": 142466,
+          "sha256": "039ec0c6aaae4ddd9ffa06308cc7a34523271893937a21212d5b4658cfee6117"
+        },
+        "roserade": {
+          "file": "roserade.png",
+          "bytes": 129686,
+          "sha256": "a98c33e6125b7be201f8f6f4872ad97fb361c5ab8ee97e260fecdc8c08968dc0"
+        },
+        "rotom": {
+          "file": "rotom.png",
+          "bytes": 83426,
+          "sha256": "aac3908d8eff725ce710df92af856a8eda2689296b93496e6b099594983df4eb"
+        },
+        "rotomfan": {
+          "file": "rotomfan.png",
+          "bytes": 125637,
+          "sha256": "9c5388e822558e1e1c2b1c36929ac8c1ae3c9aa3a8a6590a507a0512cb6c5fbb"
+        },
+        "rotomfrost": {
+          "file": "rotomfrost.png",
+          "bytes": 122306,
+          "sha256": "0acec65e6d6ab58d3f3e37b8a90df5d053edc3d095bcdab662d3ce8f1f54e2e8"
+        },
+        "rotomheat": {
+          "file": "rotomheat.png",
+          "bytes": 130020,
+          "sha256": "5990b8ca2d19d7183977b47218819fed390b0349ebdecb69a07cec8bb6bd3c38"
+        },
+        "rotommow": {
+          "file": "rotommow.png",
+          "bytes": 136773,
+          "sha256": "1d5845a411ccfdc5997bd0e90bcf4742b67e4b846361afee2a95fb1f54345ead"
+        },
+        "rotomwash": {
+          "file": "rotomwash.png",
+          "bytes": 122359,
+          "sha256": "45833d80ed0e71b3100330ae76b6b4e9823329c8d86e5be2847173a39e963b1c"
+        },
+        "runerigus": {
+          "file": "runerigus.png",
+          "bytes": 146922,
+          "sha256": "a78afc57f11b3ff747fae524d0f0004752a6286ba5defe89cd66536da05a33c9"
+        },
+        "sableye": {
+          "file": "sableye.png",
+          "bytes": 124851,
+          "sha256": "69c4e511be37f3fb0a4d79e5c937a7b87d5fcf6a220755744c173b31fdc4caaf"
+        },
+        "sableyemega": {
+          "file": "sableyemega.png",
+          "bytes": 149045,
+          "sha256": "9b8c2a1baa6e8c74e0b0a842d3f40258dcbeb64134d349a5514ac4796f392091"
+        },
+        "salazzle": {
+          "file": "salazzle.png",
+          "bytes": 96700,
+          "sha256": "6d0161102030370b99d11ef77ce4819d467119c6df1d1cac94fe266a34ccb7f2"
+        },
+        "samurott": {
+          "file": "samurott.png",
+          "bytes": 152146,
+          "sha256": "192e0d2a7d4dffb822bb9d5ed46015c1d1e2e52cce99f262318d5ad98797c9c1"
+        },
+        "samurotthisui": {
+          "file": "samurotthisui.png",
+          "bytes": 136124,
+          "sha256": "db691de28911c26781ca2991f9b4b42bd7d083ae68b5d1dc0bcd0430fba3ed4e"
+        },
+        "sandaconda": {
+          "file": "sandaconda.png",
+          "bytes": 104036,
+          "sha256": "ba693d922b6c999083d397a6f23fb8e2b1e422770a85210a567086a83037369f"
+        },
+        "scizor": {
+          "file": "scizor.png",
+          "bytes": 136495,
+          "sha256": "67765e304fa030422abc88e4b1f5eae21cb558e9b6dc0f1a43656f0f1daf6434"
+        },
+        "scizormega": {
+          "file": "scizormega.png",
+          "bytes": 142223,
+          "sha256": "597ffefb7d1188bf7a73ddfc651f2a109fa4cfe72af2d1ee541a8c1f54d1d192"
+        },
+        "scovillain": {
+          "file": "scovillain.png",
+          "bytes": 130542,
+          "sha256": "532b8c959d44a45f3d01bf1ef47fa316b9b705b25d5f600f4c5a097d010d19c2"
+        },
+        "scovillainmega": {
+          "file": "scovillainmega.png",
+          "bytes": 44666,
+          "sha256": "3c75525e19bcbcb58af2ccc79e39e1b7215d3d10669e40ec57ff58b592956ec5"
+        },
+        "serperior": {
+          "file": "serperior.png",
+          "bytes": 133846,
+          "sha256": "9dd16782bae17e6e39fead09b9dcf43e6155e5f38368ff3ce243964997a5c48c"
+        },
+        "sharpedo": {
+          "file": "sharpedo.png",
+          "bytes": 114092,
+          "sha256": "fd36f8289de70fa69538fc7e18291402f6dc5271f79054953a8ecd925f60a3f9"
+        },
+        "sharpedomega": {
+          "file": "sharpedomega.png",
+          "bytes": 137605,
+          "sha256": "cf1112a0fcbbd8f9d3d63070809b3f68d7e1fdb87452e4417911657b7989ec9e"
+        },
+        "simipour": {
+          "file": "simipour.png",
+          "bytes": 171897,
+          "sha256": "76604cb8de67e6c7ced38c9c4faf024848c14d155e26fd1915983fabd9135787"
+        },
+        "simisage": {
+          "file": "simisage.png",
+          "bytes": 149691,
+          "sha256": "2ca68c33743ec3a845d3259b03944f08df8d62a02a51ff222fa5ee1647e27e09"
+        },
+        "simisear": {
+          "file": "simisear.png",
+          "bytes": 183365,
+          "sha256": "2f6055eb94d615758ddd46c7cce5b2fb7ca4213468222ac83eaf32756a8ea4fa"
+        },
+        "sinistcha": {
+          "file": "sinistcha.png",
+          "bytes": 157584,
+          "sha256": "2d9f5d4a4a9154a6d6dc7aa3bc1585d81817bbfd3cf7ad95da0b52ba14014948"
+        },
+        "skarmory": {
+          "file": "skarmory.png",
+          "bytes": 118166,
+          "sha256": "3c9de3ea5ba321721e92c67f65864a8ace88787de11dd881206e7cb424763636"
+        },
+        "skarmorymega": {
+          "file": "skarmorymega.png",
+          "bytes": 44817,
+          "sha256": "8f6c80c9cb10db4764c0f72866490794c0cd959c7dd467e8f7485c5ade4ccb26"
+        },
+        "skeledirge": {
+          "file": "skeledirge.png",
+          "bytes": 135982,
+          "sha256": "b6b4449d6841c303a2913f70020f9c329eb836fd23976d3ffb00a24f60810d5a"
+        },
+        "slowbro": {
+          "file": "slowbro.png",
+          "bytes": 185275,
+          "sha256": "78c59860688ec9c386afce52097d4f6ede75401f2bbb492e1a63fd50a0517e95"
+        },
+        "slowbrogalar": {
+          "file": "slowbrogalar.png",
+          "bytes": 147726,
+          "sha256": "5694a3a22f6c57d4e111acb10f16115651d4a6d216224026d56a421eb16635f0"
+        },
+        "slowbromega": {
+          "file": "slowbromega.png",
+          "bytes": 129206,
+          "sha256": "b961fd5533de378edf003ef0244dceaf4fb643a8072925449b8a600c56354845"
+        },
+        "slowking": {
+          "file": "slowking.png",
+          "bytes": 122930,
+          "sha256": "ef4c791a9ea73ca822a8c52a1f728e1712d28e333ff477255574baf8d8fbcb61"
+        },
+        "slowkinggalar": {
+          "file": "slowkinggalar.png",
+          "bytes": 164381,
+          "sha256": "e63890514f1abfebeb2713a8dae5e4d096f14925ded68dc269ff06f8890cf46c"
+        },
+        "slurpuff": {
+          "file": "slurpuff.png",
+          "bytes": 146016,
+          "sha256": "4a3845d70de1b28d2b1d3dbfb2197f8491afd3e63fbd2dfa1ce1255e00e44bee"
+        },
+        "sneasler": {
+          "file": "sneasler.png",
+          "bytes": 107384,
+          "sha256": "5668b45d33b097e8caef5f6bd53dec924486095d63a8f63f349c2b86bc39cf84"
+        },
+        "snorlax": {
+          "file": "snorlax.png",
+          "bytes": 139225,
+          "sha256": "1afd32e5f6053a50860d67c5d7cc3bc6ca9a174634097fe65880523a0a13a55a"
+        },
+        "spiritomb": {
+          "file": "spiritomb.png",
+          "bytes": 189758,
+          "sha256": "96fe269ba07f74ff7da7dd553684f99d26e4398710ed400bc7fc1f1968f700fd"
+        },
+        "starmie": {
+          "file": "starmie.png",
+          "bytes": 198724,
+          "sha256": "4e9cebb6042fd5489471341c5d5778a900662be93e343234468edc2dfe94436f"
+        },
+        "starmiemega": {
+          "file": "starmiemega.png",
+          "bytes": 45130,
+          "sha256": "4e5421f29472f608cd74b0c3bd01ee160d24e8437f946da459177cff08e6b6b3"
+        },
+        "steelix": {
+          "file": "steelix.png",
+          "bytes": 125548,
+          "sha256": "cd82cb87b4ad5034501f0dc871b791bc6fa12cb2fe93e7637aaae95b2c8a6623"
+        },
+        "steelixmega": {
+          "file": "steelixmega.png",
+          "bytes": 172617,
+          "sha256": "96f7d8639656865df146c4687ccf0760b8920ae3b02e9c20a085d0104e2eb2bf"
+        },
+        "stunfisk": {
+          "file": "stunfisk.png",
+          "bytes": 91660,
+          "sha256": "d14f1c3fc8996308475bad4d73dc519cf5486e379ef05293be248bfaf14206cd"
+        },
+        "stunfiskgalar": {
+          "file": "stunfiskgalar.png",
+          "bytes": 86990,
+          "sha256": "c93892b4c2c6acd72f35a162287db25761977363b8e4e0047a8a0820b689cfcf"
+        },
+        "sylveon": {
+          "file": "sylveon.png",
+          "bytes": 136613,
+          "sha256": "193777db6d89cdace234fe3198dca4e955a7a5a18011cd0105178b436f6199a7"
+        },
+        "talonflame": {
+          "file": "talonflame.png",
+          "bytes": 89569,
+          "sha256": "788d4828075299c05978b0c303f9f7bbadb439d2996af21e1fc9b1aac464a6f1"
+        },
+        "tauros": {
+          "file": "tauros.png",
+          "bytes": 129530,
+          "sha256": "04ba885a5e71dc1e6970e7a83a098464e3fa29b83502631772a0f709662887e4"
+        },
+        "taurospaldeaaqua": {
+          "file": "taurospaldeaaqua.png",
+          "bytes": 101346,
+          "sha256": "f4faa86229f0bb73d708c6a0ca552d19e9b86c44aa6d311c6ec1fd9589a86df5"
+        },
+        "taurospaldeablaze": {
+          "file": "taurospaldeablaze.png",
+          "bytes": 109815,
+          "sha256": "ffb676aff00b335fbf8917dbc47fe4bf261790002d3266d193f7f387159c55f3"
+        },
+        "taurospaldeacombat": {
+          "file": "taurospaldeacombat.png",
+          "bytes": 93580,
+          "sha256": "1942ab8db0d34114dcb23190362ec6540e199470a6a67243ef0dd08701e2a678"
+        },
+        "tinkaton": {
+          "file": "tinkaton.png",
+          "bytes": 200748,
+          "sha256": "b7825d0857e446d7622b104c82c41c38cf4d69fe2bfab6b8734ec639829d0ee0"
+        },
+        "torkoal": {
+          "file": "torkoal.png",
+          "bytes": 193339,
+          "sha256": "74cd3c62884521ee44ca87e24c044cdac17a4cb5fb78b064a42fdfeaf087940f"
+        },
+        "torterra": {
+          "file": "torterra.png",
+          "bytes": 198680,
+          "sha256": "47396a17f77a4d050bb953bba9744c8b94f04f5254d59196340b9c5887b742a1"
+        },
+        "toucannon": {
+          "file": "toucannon.png",
+          "bytes": 95083,
+          "sha256": "3721f56828ca651242ace16de832af0df075040bdb182b81d6a56846a27e6997"
+        },
+        "toxapex": {
+          "file": "toxapex.png",
+          "bytes": 128147,
+          "sha256": "2eb1c9e63f74522857b50cd906ef3ec7985ca66b3c914c5b5ef0a36a692ae3f5"
+        },
+        "toxicroak": {
+          "file": "toxicroak.png",
+          "bytes": 128163,
+          "sha256": "20036cc1e28705cb235353ceb2e69c94d8d5fdfd9c697f270337af35a49bba59"
+        },
+        "trevenant": {
+          "file": "trevenant.png",
+          "bytes": 171336,
+          "sha256": "df23987bef7045c46d8f9a6a83cd23c3b23e006a424669051b0c6e4fbfa9c85f"
+        },
+        "tsareena": {
+          "file": "tsareena.png",
+          "bytes": 122999,
+          "sha256": "d4c5f9bdfc2d8b5ce80142325af61537ad75b5c215a46870e422467de971b27d"
+        },
+        "typhlosion": {
+          "file": "typhlosion.png",
+          "bytes": 114593,
+          "sha256": "04230d9302910d2af6e91fc4a372d059932b420e322200aedbf251f6b1df512d"
+        },
+        "typhlosionhisui": {
+          "file": "typhlosionhisui.png",
+          "bytes": 108328,
+          "sha256": "5bcccc176e3aca2aad32ed927a56c75d8db993867af1f2e311784c376907f47c"
+        },
+        "tyranitar": {
+          "file": "tyranitar.png",
+          "bytes": 160001,
+          "sha256": "080b69438af4483ecd73f7ba154b5d5c845726028ac3071bde455de8978bb509"
+        },
+        "tyranitarmega": {
+          "file": "tyranitarmega.png",
+          "bytes": 157994,
+          "sha256": "e5042d33e8f7d28ef4f4af88706f3a897b8f10cd4d51034b928e09dfbd8295bd"
+        },
+        "tyrantrum": {
+          "file": "tyrantrum.png",
+          "bytes": 147460,
+          "sha256": "d8b0afca742d381220ac3d69458df71f10aa9dc2bf295255c1ebf49eeee32f87"
+        },
+        "umbreon": {
+          "file": "umbreon.png",
+          "bytes": 99819,
+          "sha256": "8d7f18f7b323269dff84480f1ee8873a5d47a3eb3fd4b2ac1d2bbf0cf45a6ddd"
+        },
+        "vanilluxe": {
+          "file": "vanilluxe.png",
+          "bytes": 160297,
+          "sha256": "8a85a247406db62529a087b9dfa79304e8195802452db87dcde84fa4e18a5f81"
+        },
+        "vaporeon": {
+          "file": "vaporeon.png",
+          "bytes": 157955,
+          "sha256": "3f4a86ef2ec064c98dd8fb207046c7202c1669e5fb7fac05fc1acea364d2770f"
+        },
+        "venusaur": {
+          "file": "venusaur.png",
+          "bytes": 186011,
+          "sha256": "106d0040aa775f95871706c30ddd4abaef2c962215f5e8bd4141e0caef0ef8e4"
+        },
+        "venusaurmega": {
+          "file": "venusaurmega.png",
+          "bytes": 190329,
+          "sha256": "e067b4e2dadf5e661b659462ba8303d7c3fb195d4c400286aee8f9a8d4a5ad1b"
+        },
+        "victreebel": {
+          "file": "victreebel.png",
+          "bytes": 140003,
+          "sha256": "47c1fff808f898e37590ec5c10913efeb8a2593684b9f834a469d6b9991a8fcc"
+        },
+        "victreebelmega": {
+          "file": "victreebelmega.png",
+          "bytes": 33108,
+          "sha256": "83893f8dfa8f46ec54667abbfaecd01bada21757ea6ca1e78f84d6225e00f19b"
+        },
+        "vivillon": {
+          "file": "vivillon.png",
+          "bytes": 160836,
+          "sha256": "b3dbfb7060adb159c16b633a7f788ad96b29767db4973d46759667f317af5e41"
+        },
+        "volcarona": {
+          "file": "volcarona.png",
+          "bytes": 152556,
+          "sha256": "05e4d5f86fd53f786bcf13e6fa334678eeb010041bdb2eb747dc24aebb7b1287"
+        },
+        "watchog": {
+          "file": "watchog.png",
+          "bytes": 96407,
+          "sha256": "fa8cd921937fc584073afbb43d6d7f4a748b962e8455dc4b50a10de862d49096"
+        },
+        "weavile": {
+          "file": "weavile.png",
+          "bytes": 136634,
+          "sha256": "11d5a85c9948d2ab4b2cd0cc0f373f6d3a42f703454e4b78a01ce8732dfbe991"
+        },
+        "whimsicott": {
+          "file": "whimsicott.png",
+          "bytes": 170856,
+          "sha256": "1d6c01ad624a6e7ca2095331d49280e1eb0facbb5228513da08101d3de98f3e0"
+        },
+        "wyrdeer": {
+          "file": "wyrdeer.png",
+          "bytes": 95155,
+          "sha256": "f131e4c94627dfaa8e041966f39022d9233345cde531f012d9ca3c73d4f2c030"
+        },
+        "zoroark": {
+          "file": "zoroark.png",
+          "bytes": 131159,
+          "sha256": "b9dc530c88c2baee1026f03eb4b57bd7db94289d9811bafbe961ae49150938cd"
+        },
+        "zoroarkhisui": {
+          "file": "zoroarkhisui.png",
+          "bytes": 133746,
+          "sha256": "e05c0ece8bff7926177bfe9e07ee9f81d2b1736e26915687bfeea5cb56a6a889"
+        }
+      }
+    }
+  }
+}
