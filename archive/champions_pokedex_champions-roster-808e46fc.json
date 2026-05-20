@@ -215,7 +215,7 @@
       "name": "Charizard-Mega-X",
       "num": 6,
       "gen": 1,
-      "tier": "UUBL",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -16995,7 +16995,7 @@
       "name": "Espathra",
       "num": 956,
       "gen": 9,
-      "tier": "UUBL",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
