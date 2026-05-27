@@ -4,10 +4,14 @@
   "dataFile": "champions_pokedex.json",
   "sha256": "f7de538de4c32efee13cc02d51fb392a13785d387ea7416dbbd48f2db8f7b2c1",
   "sizeBytes": 384280,
+  "movesFile": "champions_moves.json",
+  "movesVersion": "champions-moves-5d130a2e",
+  "movesSha256": "657f6df02b437b0574d77ca7b6274b64240ddc2283a75f742333185c57656c16",
+  "movesSizeBytes": 1106644,
   "spriteSetVersion": "sprites-c947f98c",
   "spritesManifest": "sprites/sprites_manifest.json",
   "source": {
     "name": "pokemon-showdown",
-    "commit": "84636bcc780f5bfcf91985f210d5c1bec9bb43ae"
+    "commit": "ad8b2b584bb535b6fede1f3bf872d0bef87b1bab"
   }
 }
