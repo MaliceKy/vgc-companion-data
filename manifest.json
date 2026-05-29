@@ -8,10 +8,14 @@
   "movesVersion": "champions-moves-5d130a2e",
   "movesSha256": "657f6df02b437b0574d77ca7b6274b64240ddc2283a75f742333185c57656c16",
   "movesSizeBytes": 1106644,
+  "learnsetsFile": "champions_learnsets.json",
+  "learnsetsVersion": "champions-learnsets-5b5ee580",
+  "learnsetsSha256": "3e4389b0f1e7780366f1ae3904a784181f664b4baeed5afb31be2fd384dd1804",
+  "learnsetsSizeBytes": 361241,
   "spriteSetVersion": "sprites-c947f98c",
   "spritesManifest": "sprites/sprites_manifest.json",
   "source": {
     "name": "pokemon-showdown",
-    "commit": "ad8b2b584bb535b6fede1f3bf872d0bef87b1bab"
+    "commit": "f53dc766aae8639aa0083f8148d58b6553f11530"
   }
 }
