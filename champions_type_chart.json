@@ -1,0 +1,1563 @@
+{
+  "schemaVersion": 1,
+  "types": [
+    {
+      "id": "bug",
+      "name": "Bug",
+      "matchups": {
+        "bug": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "fire": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "flying": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ground": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ice": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "dark",
+      "name": "Dark",
+      "matchups": {
+        "bug": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "dark": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "fighting": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "fire": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "grass": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ground": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ice": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 3,
+          "multiplier": 0.0
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "dragon",
+      "name": "Dragon",
+      "matchups": {
+        "bug": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "electric": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "fairy": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "fighting": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fire": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ground": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ice": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 2,
+          "multiplier": 0.5
+        }
+      }
+    },
+    {
+      "id": "electric",
+      "name": "Electric",
+      "matchups": {
+        "bug": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fire": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "flying": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ground": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "ice": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "fairy",
+      "name": "Fairy",
+      "matchups": {
+        "bug": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "dark": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "dragon": {
+          "code": 3,
+          "multiplier": 0.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "fire": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ground": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ice": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "fighting",
+      "name": "Fighting",
+      "matchups": {
+        "bug": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "dark": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "fighting": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fire": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "flying": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ground": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ice": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "rock": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "fire",
+      "name": "Fire",
+      "matchups": {
+        "bug": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "fighting": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fire": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ground": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "ice": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "steel": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 1,
+          "multiplier": 2.0
+        }
+      }
+    },
+    {
+      "id": "flying",
+      "name": "Flying",
+      "matchups": {
+        "bug": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "fire": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ground": {
+          "code": 3,
+          "multiplier": 0.0
+        },
+        "ice": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "matchups": {
+        "bug": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "dark": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 3,
+          "multiplier": 0.0
+        },
+        "fire": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "grass": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ground": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ice": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "normal": {
+          "code": 3,
+          "multiplier": 0.0
+        },
+        "poison": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "grass",
+      "name": "Grass",
+      "matchups": {
+        "bug": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fire": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "flying": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ground": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ice": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 2,
+          "multiplier": 0.5
+        }
+      }
+    },
+    {
+      "id": "ground",
+      "name": "Ground",
+      "matchups": {
+        "bug": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 3,
+          "multiplier": 0.0
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fire": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "ground": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ice": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 1,
+          "multiplier": 2.0
+        }
+      }
+    },
+    {
+      "id": "ice",
+      "name": "Ice",
+      "matchups": {
+        "bug": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "fire": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ground": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ice": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "steel": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "normal",
+      "name": "Normal",
+      "matchups": {
+        "bug": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "fire": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 3,
+          "multiplier": 0.0
+        },
+        "grass": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ground": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ice": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "poison",
+      "name": "Poison",
+      "matchups": {
+        "bug": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "fighting": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "fire": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ground": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "ice": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "psychic": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "psychic",
+      "name": "Psychic",
+      "matchups": {
+        "bug": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "dark": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "fire": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "grass": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ground": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ice": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "rock",
+      "name": "Rock",
+      "matchups": {
+        "bug": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "fire": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "flying": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "ground": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "ice": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "normal": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "poison": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 1,
+          "multiplier": 2.0
+        }
+      }
+    },
+    {
+      "id": "steel",
+      "name": "Steel",
+      "matchups": {
+        "bug": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "fighting": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "fire": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "flying": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "ground": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "ice": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "normal": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "poison": {
+          "code": 3,
+          "multiplier": 0.0
+        },
+        "psychic": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "rock": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "steel": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "stellar",
+      "name": "Stellar",
+      "matchups": {
+        "bug": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fire": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ground": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ice": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 0,
+          "multiplier": 1.0
+        }
+      }
+    },
+    {
+      "id": "water",
+      "name": "Water",
+      "matchups": {
+        "bug": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dark": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "dragon": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "electric": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "fairy": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fighting": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "fire": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "flying": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ghost": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "grass": {
+          "code": 1,
+          "multiplier": 2.0
+        },
+        "ground": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "ice": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "normal": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "poison": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "psychic": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "rock": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "steel": {
+          "code": 2,
+          "multiplier": 0.5
+        },
+        "stellar": {
+          "code": 0,
+          "multiplier": 1.0
+        },
+        "water": {
+          "code": 2,
+          "multiplier": 0.5
+        }
+      }
+    }
+  ]
+}
