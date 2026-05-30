@@ -12,10 +12,18 @@
   "learnsetsVersion": "champions-learnsets-5b5ee580",
   "learnsetsSha256": "3e4389b0f1e7780366f1ae3904a784181f664b4baeed5afb31be2fd384dd1804",
   "learnsetsSizeBytes": 361241,
+  "abilitiesFile": "champions_abilities.json",
+  "abilitiesVersion": "champions-abilities-c5b65df2",
+  "abilitiesSha256": "01ae003659b20a1efc008094ff479ca42cc1f4305154a95fa68d7644100aa0c2",
+  "abilitiesSizeBytes": 33755,
+  "itemsFile": "champions_items.json",
+  "itemsVersion": "champions-items-85058902",
+  "itemsSha256": "1a2db4216cc800fe088685f12a7a09c9f53e927867a2d3a6af0803875e1f8657",
+  "itemsSizeBytes": 130072,
   "spriteSetVersion": "sprites-c947f98c",
   "spritesManifest": "sprites/sprites_manifest.json",
   "source": {
     "name": "pokemon-showdown",
-    "commit": "f53dc766aae8639aa0083f8148d58b6553f11530"
+    "commit": "aeeb3875c54eed59c8cb6dc7f7c42926ef6f018c"
   }
 }
