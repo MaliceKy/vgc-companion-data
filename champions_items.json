@@ -1905,7 +1905,6 @@
       "name": "Wide Lens",
       "gen": 4,
       "spritenum": 537,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -1916,7 +1915,6 @@
       "name": "Muscle Band",
       "gen": 4,
       "spritenum": 297,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -1938,7 +1936,6 @@
       "name": "Expert Belt",
       "gen": 4,
       "spritenum": 132,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -1949,7 +1946,6 @@
       "name": "Light Clay",
       "gen": 4,
       "spritenum": 252,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 30
       }
@@ -1960,7 +1956,6 @@
       "name": "Life Orb",
       "gen": 4,
       "spritenum": 249,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 30
       }
@@ -2030,7 +2025,6 @@
       "name": "Zoom Lens",
       "gen": 4,
       "spritenum": 574,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -2041,7 +2035,6 @@
       "name": "Metronome",
       "gen": 4,
       "spritenum": 289,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 30
       }
@@ -2052,7 +2045,6 @@
       "name": "Iron Ball",
       "gen": 4,
       "spritenum": 224,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 130
       }
@@ -2096,7 +2088,6 @@
       "name": "Icy Rock",
       "gen": 4,
       "spritenum": 221,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 40
       }
@@ -2107,7 +2098,6 @@
       "name": "Smooth Rock",
       "gen": 4,
       "spritenum": 453,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -2118,7 +2108,6 @@
       "name": "Heat Rock",
       "gen": 4,
       "spritenum": 193,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 60
       }
@@ -2129,7 +2118,6 @@
       "name": "Damp Rock",
       "gen": 4,
       "spritenum": 88,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 60
       }
@@ -2238,7 +2226,6 @@
       "name": "Shed Shell",
       "gen": 4,
       "spritenum": 437,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -2249,7 +2236,6 @@
       "name": "Big Root",
       "gen": 4,
       "spritenum": 29,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -3177,7 +3163,6 @@
       "name": "Blazikenite",
       "gen": 6,
       "spritenum": 584,
-      "isNonstandard": "Past",
       "megaStone": {
         "Blaziken": "Blaziken-Mega"
       },
@@ -3399,7 +3384,6 @@
       "name": "Mawilite",
       "gen": 6,
       "spritenum": 598,
-      "isNonstandard": "Past",
       "megaStone": {
         "Mawile": "Mawile-Mega"
       },
@@ -3536,7 +3520,6 @@
       "name": "Swampertite",
       "gen": 6,
       "spritenum": 612,
-      "isNonstandard": "Past",
       "megaStone": {
         "Swampert": "Swampert-Mega"
       },
@@ -3550,7 +3533,6 @@
       "name": "Sceptilite",
       "gen": 6,
       "spritenum": 613,
-      "isNonstandard": "Past",
       "megaStone": {
         "Sceptile": "Sceptile-Mega"
       },
@@ -3616,7 +3598,6 @@
       "name": "Metagrossite",
       "gen": 6,
       "spritenum": 618,
-      "isNonstandard": "Past",
       "megaStone": {
         "Metagross": "Metagross-Mega"
       },
@@ -6326,7 +6307,6 @@
       "name": "Scolipite",
       "gen": 9,
       "spritenum": 554,
-      "isNonstandard": "Future",
       "megaStone": {
         "Scolipede": "Scolipede-Mega"
       },
@@ -6340,7 +6320,6 @@
       "name": "Scraftinite",
       "gen": 9,
       "spritenum": 555,
-      "isNonstandard": "Future",
       "megaStone": {
         "Scrafty": "Scrafty-Mega"
       },
@@ -6354,7 +6333,6 @@
       "name": "Eelektrossite",
       "gen": 9,
       "spritenum": 556,
-      "isNonstandard": "Past",
       "megaStone": {
         "Eelektross": "Eelektross-Mega"
       },
@@ -6420,7 +6398,6 @@
       "name": "Pyroarite",
       "gen": 9,
       "spritenum": 561,
-      "isNonstandard": "Future",
       "megaStone": {
         "Pyroar": "Pyroar-Mega"
       },
@@ -6447,7 +6424,6 @@
       "name": "Malamarite",
       "gen": 9,
       "spritenum": 563,
-      "isNonstandard": "Future",
       "megaStone": {
         "Malamar": "Malamar-Mega"
       },
@@ -6461,7 +6437,6 @@
       "name": "Barbaracite",
       "gen": 9,
       "spritenum": 564,
-      "isNonstandard": "Future",
       "megaStone": {
         "Barbaracle": "Barbaracle-Mega"
       },
@@ -6475,7 +6450,6 @@
       "name": "Dragalgite",
       "gen": 9,
       "spritenum": 565,
-      "isNonstandard": "Past",
       "megaStone": {
         "Dragalge": "Dragalge-Mega"
       },
@@ -6543,7 +6517,6 @@
       "name": "Falinksite",
       "gen": 9,
       "spritenum": 570,
-      "isNonstandard": "Past",
       "megaStone": {
         "Falinks": "Falinks-Mega"
       },
@@ -6557,7 +6530,6 @@
       "name": "Raichunite X",
       "gen": 9,
       "spritenum": 496,
-      "isNonstandard": "Future",
       "megaStone": {
         "Raichu": "Raichu-Mega-X"
       },
@@ -6571,7 +6543,6 @@
       "name": "Raichunite Y",
       "gen": 9,
       "spritenum": 497,
-      "isNonstandard": "Future",
       "megaStone": {
         "Raichu": "Raichu-Mega-Y"
       },
@@ -6612,7 +6583,6 @@
       "name": "Staraptite",
       "gen": 9,
       "spritenum": 500,
-      "isNonstandard": "Future",
       "megaStone": {
         "Staraptor": "Staraptor-Mega"
       },

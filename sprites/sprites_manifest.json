@@ -1,8 +1,8 @@
 {
-  "spriteSetVersion": "sprites-c947f98c",
+  "spriteSetVersion": "sprites-577f65d3",
   "sets": {
     "official-artwork": {
-      "version": "sprites-f4cfaec8",
+      "version": "sprites-dc18eb14",
       "sprites": {
         "abomasnow": {
           "file": "abomasnow.png",
@@ -83,6 +83,11 @@
           "file": "ampharosmega.png",
           "bytes": 153128,
           "sha256": "49d430f23a90bd214468b0d9eb2db1315686e830c0198bfa285b133ca160cbba"
+        },
+        "annihilape": {
+          "file": "annihilape.png",
+          "bytes": 133880,
+          "sha256": "b54f191d19ff3ad24c68c8db81484bdc27169e7a089c0af22cc62a00e75c16b3"
         },
         "appletun": {
           "file": "appletun.png",
@@ -169,6 +174,16 @@
           "bytes": 135182,
           "sha256": "26c1bd0e997c574eccb837defef90f281f351e06458cd57cc946fc8c35b728a1"
         },
+        "barbaracle": {
+          "file": "barbaracle.png",
+          "bytes": 152704,
+          "sha256": "aadff3c90e5079de786b499893d2aa848c98f5ed8d33029a9a1817ba146867c2"
+        },
+        "barbaraclemega": {
+          "file": "barbaraclemega.png",
+          "bytes": 49539,
+          "sha256": "7d666205b045fa62feb5cd195c885984233c37dc8e6a03fbebd83f4695410614"
+        },
         "basculegion": {
           "file": "basculegion.png",
           "bytes": 142322,
@@ -213,6 +228,16 @@
           "file": "blastoisemega.png",
           "bytes": 173732,
           "sha256": "68775044cf56a89e7a68630891891ddb193f13ab562b3cfcafa09cef5479c5a0"
+        },
+        "blaziken": {
+          "file": "blaziken.png",
+          "bytes": 122531,
+          "sha256": "56fc2d08ad58031fa04af4453f5998b95c5817d68f552f5c760682f07c99c91c"
+        },
+        "blazikenmega": {
+          "file": "blazikenmega.png",
+          "bytes": 123823,
+          "sha256": "b25cbd755a742b718aaadac10227a35d47c7848aaeea8a49bd1f75aef0727cf2"
         },
         "camerupt": {
           "file": "camerupt.png",
@@ -354,6 +379,16 @@
           "bytes": 129274,
           "sha256": "5f7be2f22d06658a52b4e863a22e37d8904e539d9d8e23f15d4ea869b095e21f"
         },
+        "dragalge": {
+          "file": "dragalge.png",
+          "bytes": 108130,
+          "sha256": "946da7659dda770f3cd656edddb06e59c0ff12714fe1bcfede57864d73b3b72c"
+        },
+        "dragalgemega": {
+          "file": "dragalgemega.png",
+          "bytes": 48082,
+          "sha256": "020cd76224f2d00c45f8e4f9707acd47feaa1c485f8bbd505189fbfb07c50a42"
+        },
         "dragapult": {
           "file": "dragapult.png",
           "bytes": 159001,
@@ -378,6 +413,16 @@
           "file": "drampamega.png",
           "bytes": 50101,
           "sha256": "99b1ce0d12316833b3a066c42dacd1b11d30ea0f1903c992de87705edd736e3f"
+        },
+        "eelektross": {
+          "file": "eelektross.png",
+          "bytes": 112600,
+          "sha256": "57ecb34d9988e1bd17d4aa9e980cd30d5cdef9dccf578e4cccf8fd9c8e3e3c73"
+        },
+        "eelektrossmega": {
+          "file": "eelektrossmega.png",
+          "bytes": 35448,
+          "sha256": "406689f2026c2fbe76c33e7f10a8f2564d6e56c641f1d5dcb4862101973e1b47"
         },
         "emboar": {
           "file": "emboar.png",
@@ -418,6 +463,16 @@
           "file": "excadrillmega.png",
           "bytes": 34393,
           "sha256": "7fe22e3c468001612206acfd21bb46bcf4c82c95dde5a2ab8f52356d7d15a63d"
+        },
+        "falinks": {
+          "file": "falinks.png",
+          "bytes": 134349,
+          "sha256": "b56430d074b5b6a4248abc026f8019c4549eaee5cba2c9cc3b96e9bc61b315de"
+        },
+        "falinksmega": {
+          "file": "falinksmega.png",
+          "bytes": 32392,
+          "sha256": "383c4cdd043ca06358c12a4db0199fca3a6ec1feb772e5683e46b1cade019d6f"
         },
         "farigiraf": {
           "file": "farigiraf.png",
@@ -529,6 +584,11 @@
           "bytes": 145543,
           "sha256": "d0bf0d4214986de3782e8c459798487a89de6ccafa2fe591c219aee33287415d"
         },
+        "gholdengo": {
+          "file": "gholdengo.png",
+          "bytes": 99130,
+          "sha256": "0711a486bf76284aac7317736275cf43085883db2c8868a8ea6d09a090b9b70b"
+        },
         "glaceon": {
           "file": "glaceon.png",
           "bytes": 93967,
@@ -609,6 +669,11 @@
           "bytes": 29690,
           "sha256": "417b5aeaa97b618211f3c8c9336e2a6da80f3c6104db71e1fb575805cf44b995"
         },
+        "grimmsnarl": {
+          "file": "grimmsnarl.png",
+          "bytes": 145602,
+          "sha256": "75b6f34affa4dadf07738848e263557edfcd862aa38f5496ccfd42d7caabeefe"
+        },
         "gyarados": {
           "file": "gyarados.png",
           "bytes": 146784,
@@ -663,6 +728,11 @@
           "file": "houndoommega.png",
           "bytes": 119346,
           "sha256": "42cc8d7923cd126115c5dbd9bf0aaf8eea6fbeedc8979e7a43b6dd9c60f2da53"
+        },
+        "houndstone": {
+          "file": "houndstone.png",
+          "bytes": 145221,
+          "sha256": "33bb46e621c1f651c80521a525154329397551a732558ca9496c748e06c5f887"
         },
         "hydrapple": {
           "file": "hydrapple.png",
@@ -779,6 +849,16 @@
           "bytes": 151393,
           "sha256": "5d124f441d6690e19de8685e30b1e5d375f2fd6dd91be5cfd164dacf6853f7e6"
         },
+        "malamar": {
+          "file": "malamar.png",
+          "bytes": 139402,
+          "sha256": "81cf08a03b9498a91fff50dff2593f5674d2f418ff3adb1c5b350914ed9e3278"
+        },
+        "malamarmega": {
+          "file": "malamarmega.png",
+          "bytes": 37228,
+          "sha256": "4d2967d52feb9ae238ee362b615c862dcba7f16d16539e2452d5bd86f8637aa0"
+        },
         "mamoswine": {
           "file": "mamoswine.png",
           "bytes": 155437,
@@ -798,6 +878,16 @@
           "file": "maushold.png",
           "bytes": 99129,
           "sha256": "3ad979acad528c618d916ab257379144f7eed0a7e33c9414bf94dfa996f9425f"
+        },
+        "mawile": {
+          "file": "mawile.png",
+          "bytes": 111768,
+          "sha256": "c8486e58e6ab7214218307818b0943cc18e77ad97a0aef79314966e6b7ed1bdf"
+        },
+        "mawilemega": {
+          "file": "mawilemega.png",
+          "bytes": 153771,
+          "sha256": "571220495d371a572ff733275ce799595c9ce7998caef622e263064dd6fc9505"
         },
         "medicham": {
           "file": "medicham.png",
@@ -839,6 +929,16 @@
           "bytes": 28576,
           "sha256": "43df0a7b80ff176a245fdcf5ea228c8b5e13fe7e16f97cc923ece5cab8f9ef11"
         },
+        "metagross": {
+          "file": "metagross.png",
+          "bytes": 127463,
+          "sha256": "a871d3272f6da2fb4df63d2304db65aac08c24a9575e8d7ba6377f2ee87535d0"
+        },
+        "metagrossmega": {
+          "file": "metagrossmega.png",
+          "bytes": 177430,
+          "sha256": "20b1eddfe408111a47109b26691d30e0dc18d6550d6a0996c17d292528116cda"
+        },
         "milotic": {
           "file": "milotic.png",
           "bytes": 164467,
@@ -864,6 +964,11 @@
           "bytes": 142251,
           "sha256": "d4d7385c94b46031992b32877bd7668aa3a0f5e70a2f6a94a0e82dc8e8f6a539"
         },
+        "musharna": {
+          "file": "musharna.png",
+          "bytes": 142563,
+          "sha256": "01ebd4eef351ed068f4cd0810a71f24f7060d65baf11b43c4054778b7a22d97c"
+        },
         "ninetales": {
           "file": "ninetales.png",
           "bytes": 184128,
@@ -888,6 +993,11 @@
           "file": "orthworm.png",
           "bytes": 145459,
           "sha256": "e7e82066607fe0f88e479a436dd2df8c130b10d9572311148d040d7334a23360"
+        },
+        "overqwil": {
+          "file": "overqwil.png",
+          "bytes": 77208,
+          "sha256": "4a0a3ed47bd9f71145388d03ee4f204d15c0434a5c213fe990fb50f7e951927b"
         },
         "palafin": {
           "file": "palafin.png",
@@ -949,10 +1059,20 @@
           "bytes": 118938,
           "sha256": "5af256ff00cd759238a7ca7c91083f8810347b0a4cd8579ff1a2f5955b8ad3fc"
         },
+        "pyroarmega": {
+          "file": "pyroarmega.png",
+          "bytes": 53686,
+          "sha256": "56e1b7bdf4f81f8d6ef837b996a10608ddc082c851b4f43c950f686fb5c1994e"
+        },
         "quaquaval": {
           "file": "quaquaval.png",
           "bytes": 112478,
           "sha256": "03d904ef9156559923378ab8051ab512f106fac1667dfc7c058275673b7a75d1"
+        },
+        "qwilfish": {
+          "file": "qwilfish.png",
+          "bytes": 140542,
+          "sha256": "057c61e2c121bf3a3a3bcebc112c5039a69bead30a0a5364cefea2ce7627c914"
         },
         "raichu": {
           "file": "raichu.png",
@@ -963,6 +1083,16 @@
           "file": "raichualola.png",
           "bytes": 119545,
           "sha256": "0cc06daa4c80f2277ae50cb722099ec6f1d4327dfd59012ad868a01a1bad8a4e"
+        },
+        "raichumegax": {
+          "file": "raichumegax.png",
+          "bytes": 21430,
+          "sha256": "73ecdf6978e2dc4e2169a73754ebe32a35283bbfa5b7a61c59190d80c52f0912"
+        },
+        "raichumegay": {
+          "file": "raichumegay.png",
+          "bytes": 31845,
+          "sha256": "a46a2213c8096940b2d2fbef481af38628492371c1a740b9f510fff6949f4d4c"
         },
         "rampardos": {
           "file": "rampardos.png",
@@ -1049,6 +1179,16 @@
           "bytes": 104036,
           "sha256": "ba693d922b6c999083d397a6f23fb8e2b1e422770a85210a567086a83037369f"
         },
+        "sceptile": {
+          "file": "sceptile.png",
+          "bytes": 151728,
+          "sha256": "f0d143504a9da150a51c88c0a8c5deb2fc7a0c95717b003fd45de27ad95f43ed"
+        },
+        "sceptilemega": {
+          "file": "sceptilemega.png",
+          "bytes": 106996,
+          "sha256": "dcfb9373f0007252d462779c72cc6cb661db1628a0bd1b72ff90b47e277c1151"
+        },
         "scizor": {
           "file": "scizor.png",
           "bytes": 136495,
@@ -1059,6 +1199,16 @@
           "bytes": 142223,
           "sha256": "597ffefb7d1188bf7a73ddfc651f2a109fa4cfe72af2d1ee541a8c1f54d1d192"
         },
+        "scolipede": {
+          "file": "scolipede.png",
+          "bytes": 128701,
+          "sha256": "1e804ecd2412fd23f08114a58aba9d18d79be5fe78fee01785470c9d765f5f27"
+        },
+        "scolipedemega": {
+          "file": "scolipedemega.png",
+          "bytes": 46414,
+          "sha256": "aeead00420852c590cf43e86ece7fe6a3be711300f567565866e0d5e80e2aea9"
+        },
         "scovillain": {
           "file": "scovillain.png",
           "bytes": 130542,
@@ -1068,6 +1218,16 @@
           "file": "scovillainmega.png",
           "bytes": 44666,
           "sha256": "3c75525e19bcbcb58af2ccc79e39e1b7215d3d10669e40ec57ff58b592956ec5"
+        },
+        "scrafty": {
+          "file": "scrafty.png",
+          "bytes": 118414,
+          "sha256": "ff5559304f21daabe6861bad61a6bd3b27214fe16c10ef0c91ed0cdc1c3abef6"
+        },
+        "scraftymega": {
+          "file": "scraftymega.png",
+          "bytes": 48894,
+          "sha256": "2bc94edbc26b70bac031355fac4140bfe918d61694b081854d4bad4e15b28aaa"
         },
         "serperior": {
           "file": "serperior.png",
@@ -1164,6 +1324,16 @@
           "bytes": 189758,
           "sha256": "96fe269ba07f74ff7da7dd553684f99d26e4398710ed400bc7fc1f1968f700fd"
         },
+        "staraptor": {
+          "file": "staraptor.png",
+          "bytes": 133959,
+          "sha256": "dd8f43d1a1cc9975af7c56057cdab4a80400ec4dd67b0338490382336fef269f"
+        },
+        "staraptormega": {
+          "file": "staraptormega.png",
+          "bytes": 54512,
+          "sha256": "c15f1c7d6bafa54bc3d705df8b30fc540bfcade2dfbb5654536ade759dfa4b6b"
+        },
         "starmie": {
           "file": "starmie.png",
           "bytes": 198724,
@@ -1193,6 +1363,16 @@
           "file": "stunfiskgalar.png",
           "bytes": 86990,
           "sha256": "c93892b4c2c6acd72f35a162287db25761977363b8e4e0047a8a0820b689cfcf"
+        },
+        "swampert": {
+          "file": "swampert.png",
+          "bytes": 137412,
+          "sha256": "c812815f91ebfb092870f933d24c0c82a5bc8f0ba8fc971d68d38496640bc101"
+        },
+        "swampertmega": {
+          "file": "swampertmega.png",
+          "bytes": 203660,
+          "sha256": "97ad73857721432594e28e437eb6d00e1953da78a27df69febcefc8dedbfc6a9"
         },
         "sylveon": {
           "file": "sylveon.png",
@@ -1323,6 +1503,11 @@
           "file": "victreebelmega.png",
           "bytes": 33108,
           "sha256": "83893f8dfa8f46ec54667abbfaecd01bada21757ea6ca1e78f84d6225e00f19b"
+        },
+        "vileplume": {
+          "file": "vileplume.png",
+          "bytes": 155232,
+          "sha256": "9c2b9e9a3b91e2400f6e54165d4dcdedf6650f85fcdf552a52d8d68a2129abb1"
         },
         "vivillon": {
           "file": "vivillon.png",

@@ -1905,10 +1905,22 @@
       "rating": 4.0
     },
     {
+      "id": "eelevate",
+      "num": 313,
+      "name": "Eelevate",
+      "rating": 4.0
+    },
+    {
       "id": "megasol",
       "num": 315,
       "name": "Mega Sol",
       "rating": 3.0
+    },
+    {
+      "id": "firemane",
+      "num": 316,
+      "name": "Fire Mane",
+      "rating": 3.5
     },
     {
       "id": "spicyspray",
