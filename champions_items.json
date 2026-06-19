@@ -1925,7 +1925,6 @@
       "name": "Wise Glasses",
       "gen": 4,
       "spritenum": 539,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
