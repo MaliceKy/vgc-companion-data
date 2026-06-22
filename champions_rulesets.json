@@ -30,6 +30,18 @@
       "inheritsBase": false
     },
     {
+      "id": "natdexmod",
+      "name": "NatDex Mod",
+      "effectType": "ValidatorRule",
+      "desc": "Mechanics for National Dex formats",
+      "inheritsBase": false,
+      "ruleset": [
+        "+Unobtainable",
+        "+Past",
+        "Sketch Post-Gen 7 Moves"
+      ]
+    },
+    {
       "id": "standard",
       "name": "Standard",
       "inheritsBase": true,
