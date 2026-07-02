@@ -4934,7 +4934,7 @@
       "name": "Scizor-Mega",
       "num": 212,
       "gen": 2,
-      "tier": "OU",
+      "tier": "(OU)",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -19586,7 +19586,7 @@
       "name": "Glimmora-Mega",
       "num": 970,
       "gen": 9,
-      "tier": "OU",
+      "tier": "(OU)",
       "nfe": false,
       "hasSprite": true,
       "types": [
