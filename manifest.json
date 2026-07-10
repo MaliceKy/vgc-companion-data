@@ -1,6 +1,6 @@
 {
   "version": "champions-roster-a50921af",
-  "contentHash": "6c113d2552e9adc5971d6b2f88124f620621afa13c6c80ed2c033e8afc35bf0a",
+  "contentHash": "06afe3d8762ba632106cddb58f374780cf457279dd1dd9fe4cfd160d626d8a71",
   "schemaVersion": 1,
   "dataFile": "champions_pokedex.json",
   "sha256": "40d6ebe433e3e95b44a954cda988093166ccf73c230e85c078c96c1e14513c71",
@@ -10,9 +10,9 @@
   "movesSha256": "18c3035c65a893b43786a2e0d674d474d4e5887df9777001f17653a5c25b98da",
   "movesSizeBytes": 1106898,
   "learnsetsFile": "champions_learnsets.json",
-  "learnsetsVersion": "champions-learnsets-c49f5616",
-  "learnsetsSha256": "82360dfc6bd2f294de6e44260ceb241c6ae1beed361f21ae3de5a1497bf91095",
-  "learnsetsSizeBytes": 418006,
+  "learnsetsVersion": "champions-learnsets-75159633",
+  "learnsetsSha256": "4252fd6dd4ac6e88979fd02e754588f858680305e5575bd0e283eb6d295f51e0",
+  "learnsetsSizeBytes": 418579,
   "abilitiesFile": "champions_abilities.json",
   "abilitiesVersion": "champions-abilities-3491eb7a",
   "abilitiesSha256": "cef2f782f7d5948e1cd1444858af3f32cf443b6826d5a99cdd4a0cc507d6ffc3",
@@ -37,6 +37,6 @@
   "spritesManifest": "sprites/sprites_manifest.json",
   "source": {
     "name": "pokemon-showdown",
-    "commit": "e440c4a18385274f10c405d0b158b6a962ce6d94"
+    "commit": "d21da3c860f62d2ecd2feec7d910ef56d5054988"
   }
 }
