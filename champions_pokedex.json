@@ -6564,7 +6564,7 @@
       "name": "Medicham-Mega",
       "num": 308,
       "gen": 3,
-      "tier": "UU",
+      "tier": "UUBL",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -9849,7 +9849,7 @@
       "name": "Froslass-Mega",
       "num": 478,
       "gen": 9,
-      "tier": "UU",
+      "tier": "UUBL",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -17583,7 +17583,7 @@
       "name": "Polteageist",
       "num": 855,
       "gen": 8,
-      "tier": "UU",
+      "tier": "UUBL",
       "nfe": false,
       "hasSprite": true,
       "types": [
