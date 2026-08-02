@@ -1030,7 +1030,7 @@
       "name": "Raichu-Mega-X",
       "num": 26,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -1420,7 +1420,7 @@
       "name": "Vileplume",
       "num": 45,
       "gen": 1,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -4798,7 +4798,7 @@
       "name": "Qwilfish",
       "num": 211,
       "gen": 2,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -5510,7 +5510,7 @@
       "name": "Sceptile",
       "num": 254,
       "gen": 3,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -5580,7 +5580,7 @@
       "name": "Sceptile-Mega",
       "num": 254,
       "gen": 3,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -6238,7 +6238,7 @@
       "name": "Mawile",
       "num": 303,
       "gen": 3,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -7845,7 +7845,7 @@
       "name": "Metagross",
       "num": 376,
       "gen": 3,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -8171,7 +8171,7 @@
       "name": "Staraptor",
       "num": 398,
       "gen": 4,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -10939,7 +10939,7 @@
       "name": "Musharna",
       "num": 518,
       "gen": 5,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -11323,7 +11323,7 @@
       "name": "Scolipede",
       "num": 545,
       "gen": 5,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -11391,7 +11391,7 @@
       "name": "Scolipede-Mega",
       "num": 545,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -11579,7 +11579,7 @@
       "name": "Scrafty",
       "num": 560,
       "gen": 5,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -11648,7 +11648,7 @@
       "name": "Scrafty-Mega",
       "num": 560,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -12151,7 +12151,7 @@
       "name": "Eelektross",
       "num": 604,
       "gen": 5,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -12216,7 +12216,7 @@
       "name": "Eelektross-Mega",
       "num": 604,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -13487,7 +13487,7 @@
       "name": "Pyroar",
       "num": 668,
       "gen": 6,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": false,
       "types": [
@@ -13558,7 +13558,7 @@
       "name": "Pyroar-Mega",
       "num": 668,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -14345,7 +14345,7 @@
       "name": "Malamar",
       "num": 687,
       "gen": 6,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -14414,7 +14414,7 @@
       "name": "Malamar-Mega",
       "num": 687,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -14476,7 +14476,7 @@
       "name": "Barbaracle",
       "num": 689,
       "gen": 6,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -14544,7 +14544,7 @@
       "name": "Barbaracle-Mega",
       "num": 689,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -14605,7 +14605,7 @@
       "name": "Dragalge",
       "num": 691,
       "gen": 6,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -17983,7 +17983,7 @@
       "name": "Falinks",
       "num": 870,
       "gen": 8,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -18050,7 +18050,7 @@
       "name": "Falinks-Mega",
       "num": 870,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
