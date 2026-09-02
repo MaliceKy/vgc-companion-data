@@ -3623,7 +3623,6 @@
       "name": "Slowbronite",
       "gen": 6,
       "spritenum": 620,
-      "shortDesc": "If held by a Slowbro (not Galarian Slowbro), this item allows it to Mega Evolve.",
       "megaStone": {
         "Slowbro": "Slowbro-Mega"
       },

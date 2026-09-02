@@ -813,9 +813,7 @@
       "id": "healer",
       "num": 131,
       "name": "Healer",
-      "rating": 0.0,
-      "desc": "50% chance this Pokemon's ally has its non-volatile status condition cured at the end of each turn.",
-      "shortDesc": "50% chance this Pokemon's ally has its status cured at the end of each turn."
+      "rating": 0.0
     },
     {
       "id": "friendguard",
@@ -1589,8 +1587,7 @@
       "id": "unseenfist",
       "num": 260,
       "name": "Unseen Fist",
-      "rating": 2.0,
-      "shortDesc": "This Pokemon's contact moves ignore a target's protection and deal 1/4 the usual damage."
+      "rating": 2.0
     },
     {
       "id": "curiousmedicine",
@@ -1927,6 +1924,13 @@
       "num": 318,
       "name": "Spicy Spray",
       "rating": 3.0
+    },
+    {
+      "id": "auraguard",
+      "num": 319,
+      "name": "Aura Guard",
+      "rating": 3.5,
+      "isNonstandard": "Future"
     }
   ]
 }
