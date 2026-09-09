@@ -1,8 +1,8 @@
 {
-  "spriteSetVersion": "sprites-577f65d3",
+  "spriteSetVersion": "sprites-1a90193d",
   "sets": {
     "official-artwork": {
-      "version": "sprites-dc18eb14",
+      "version": "sprites-a022be3f",
       "sprites": {
         "abomasnow": {
           "file": "abomasnow.png",
@@ -23,6 +23,11 @@
           "file": "absolmega.png",
           "bytes": 144245,
           "sha256": "56740a3a9fca699a7d13be13220784b7333057ba7aa6104bee07289dff0ef2f1"
+        },
+        "absolmegaz": {
+          "file": "absolmegaz.png",
+          "bytes": 48849,
+          "sha256": "31911b251e03cde5b6d3b95e45db0337ee1e7528d45d28b749485766aafc608d"
         },
         "aegislash": {
           "file": "aegislash.png",
@@ -103,6 +108,11 @@
           "file": "arbok.png",
           "bytes": 181492,
           "sha256": "f1e38593fba1de6e6db3d5db819f1b851307f342abb819f9c2ebfbbea9b93d42"
+        },
+        "arboliva": {
+          "file": "arboliva.png",
+          "bytes": 115660,
+          "sha256": "bc6daee22ed527ab1010aaef45f3c423fda50372ff881820e78acb17f9212426"
         },
         "arcanine": {
           "file": "arcanine.png",
@@ -198,6 +208,16 @@
           "file": "bastiodon.png",
           "bytes": 173450,
           "sha256": "9cc46414e2386e784626ba9711ec9ed93e2d1fbb08aad1aca89ffbf05841d700"
+        },
+        "baxcalibur": {
+          "file": "baxcalibur.png",
+          "bytes": 122271,
+          "sha256": "a84f278d8c3be89205418a6621ca0d3c51853ae8a0843852058d2e9c8bdebf97"
+        },
+        "baxcaliburmega": {
+          "file": "baxcaliburmega.png",
+          "bytes": 40629,
+          "sha256": "82339dca0c6c97c59926cc0a31c3f8f7323247616cc559d3a21545cf955e36c3"
         },
         "beartic": {
           "file": "beartic.png",
@@ -303,6 +323,11 @@
           "file": "chimechomega.png",
           "bytes": 57811,
           "sha256": "d18868dc6da0a0fa77ca2d9f91bb37fb4dc72b29792e7e34bcf4cab2be782a18"
+        },
+        "cinderace": {
+          "file": "cinderace.png",
+          "bytes": 79237,
+          "sha256": "835185034b1931d5fc801a5ce78f21cf1f1555ef767bc4e92a052c59561f1186"
         },
         "clawitzer": {
           "file": "clawitzer.png",
@@ -559,6 +584,11 @@
           "bytes": 122018,
           "sha256": "f96630560e83330e537e85505a035f5558da644cf57d2790d1d01f7ffb89a89c"
         },
+        "garchompmegaz": {
+          "file": "garchompmegaz.png",
+          "bytes": 126588,
+          "sha256": "adc0730f22936f916733c8e5a9d11589ec42405f95a66c30fd1431e68268a5ed"
+        },
         "gardevoir": {
           "file": "gardevoir.png",
           "bytes": 112206,
@@ -619,6 +649,21 @@
           "bytes": 149822,
           "sha256": "9e902ab70836789a73430ad13ed6420b703f357cafc4c827ef2138a7856a7a60"
         },
+        "gogoat": {
+          "file": "gogoat.png",
+          "bytes": 164615,
+          "sha256": "b6dbb8ecd63577445b3b5b39b07627c9259b1a3be930f03d1a0eaa0e5069b5ca"
+        },
+        "golisopod": {
+          "file": "golisopod.png",
+          "bytes": 165298,
+          "sha256": "7484549ea7cb1115c568c4c90b7ba05edd5c58dad3c83d43823c75fca2600f3b"
+        },
+        "golisopodmega": {
+          "file": "golisopodmega.png",
+          "bytes": 73331,
+          "sha256": "17957ffdd27466edf0f5578a90ea26526eec7d3941544808b08a4316b95df28c"
+        },
         "golurk": {
           "file": "golurk.png",
           "bytes": 214599,
@@ -658,6 +703,11 @@
           "file": "gourgeistsuper.png",
           "bytes": 126601,
           "sha256": "6c25b571f3d1eb23bfe549948aa08032279600e4f3a5448670609029303d2959"
+        },
+        "grapploct": {
+          "file": "grapploct.png",
+          "bytes": 119867,
+          "sha256": "c88671a2e8962116c8a2ab3c8e3deae751d28a08de66b22ab7f98ac02469fec3"
         },
         "greninja": {
           "file": "greninja.png",
@@ -754,6 +804,11 @@
           "bytes": 173856,
           "sha256": "0b23361c54a8c17ff414a0abfb79bf642fb9443dc0163e3c6162346c5558e8e3"
         },
+        "inteleon": {
+          "file": "inteleon.png",
+          "bytes": 81447,
+          "sha256": "3518769c1c7118b142f531eba0d221060fa696050f1fe576bd59f01862e86743"
+        },
         "jolteon": {
           "file": "jolteon.png",
           "bytes": 141908,
@@ -824,6 +879,11 @@
           "bytes": 138895,
           "sha256": "2f31714a341ae4adcfff9bc406f2fac662b081c18a4c532b02c03357a257acd1"
         },
+        "lucariomegaz": {
+          "file": "lucariomegaz.png",
+          "bytes": 54959,
+          "sha256": "4de3167fa8f7c95825d0fbbbd982249948af7ba681c744201d8733d0930b23c3"
+        },
         "luxray": {
           "file": "luxray.png",
           "bytes": 134731,
@@ -843,6 +903,11 @@
           "file": "lycanrocmidnight.png",
           "bytes": 117376,
           "sha256": "7b5a48d91d0e5741bd7deec45cc3b169cef41f15c45e614f22915b6865ecfc2c"
+        },
+        "mabosstiff": {
+          "file": "mabosstiff.png",
+          "bytes": 106587,
+          "sha256": "8a636622b570fb82a59395b150a35b2f7da1921b8849619ef83db4041dc15fad"
         },
         "machamp": {
           "file": "machamp.png",
@@ -954,6 +1019,11 @@
           "bytes": 88056,
           "sha256": "e6a1bd4f20df13dc5f09ed811695e7a53b1120e9eff47e537e732cac046cf8be"
         },
+        "mrmime": {
+          "file": "mrmime.png",
+          "bytes": 160464,
+          "sha256": "9c46e52050633b1ca8ed05ffee09cda121ac338021de0d600b9590c0f8590c53"
+        },
         "mrrime": {
           "file": "mrrime.png",
           "bytes": 139090,
@@ -1014,10 +1084,30 @@
           "bytes": 111075,
           "sha256": "42834ce883954876a957e02f378d893b2b35f2ebc511a39d8785244fabaafdb4"
         },
+        "pawmot": {
+          "file": "pawmot.png",
+          "bytes": 153233,
+          "sha256": "405267f8bd37a4b9d9ba944e40f513f469882c545a58e1e65f2584598e99fc84"
+        },
         "pelipper": {
           "file": "pelipper.png",
           "bytes": 130668,
           "sha256": "fcfd21fd7c13cae911b888cef149d2f6c76c81624efaa2db7ec00b34ade1d14e"
+        },
+        "perrserker": {
+          "file": "perrserker.png",
+          "bytes": 134165,
+          "sha256": "27dd34d7f1d7aee21f0f68ba834b687593e52519c61f39a921fb79a2b80d9473"
+        },
+        "persian": {
+          "file": "persian.png",
+          "bytes": 118816,
+          "sha256": "b477fdc0d93c55455908cc1e430d0959203234f85362d60431a0843eaec332e7"
+        },
+        "persianalola": {
+          "file": "persianalola.png",
+          "bytes": 118549,
+          "sha256": "31e10e5611aea1afe12fea3ea7bfca86431aa92b6314152d88973d60d46c72a7"
         },
         "pidgeot": {
           "file": "pidgeot.png",
@@ -1033,6 +1123,11 @@
           "file": "pikachu.png",
           "bytes": 118057,
           "sha256": "759ceafdb4b8d637dfcfe673cf672bc3c472354a3b2e7e0835d9cdcacd8d195d"
+        },
+        "pincurchin": {
+          "file": "pincurchin.png",
+          "bytes": 92028,
+          "sha256": "9b851a32c2e7efc7722ceab0583b2a316589e8f9b7aa9daad958768ec68faea9"
         },
         "pinsir": {
           "file": "pinsir.png",
@@ -1109,6 +1204,11 @@
           "bytes": 142466,
           "sha256": "039ec0c6aaae4ddd9ffa06308cc7a34523271893937a21212d5b4658cfee6117"
         },
+        "rillaboom": {
+          "file": "rillaboom.png",
+          "bytes": 123985,
+          "sha256": "a742144d8f5c1beeccaeba0b4ac5eef36cb1137ab488549bdc9c176f94e06dda"
+        },
         "roserade": {
           "file": "roserade.png",
           "bytes": 129686,
@@ -1158,6 +1258,16 @@
           "file": "sableyemega.png",
           "bytes": 149045,
           "sha256": "9b8c2a1baa6e8c74e0b0a842d3f40258dcbeb64134d349a5514ac4796f392091"
+        },
+        "salamence": {
+          "file": "salamence.png",
+          "bytes": 167442,
+          "sha256": "3d9f18c1a25e998ef5e50e5a447e5f38637ee8a7f428b5f4477091a9b8192d3f"
+        },
+        "salamencemega": {
+          "file": "salamencemega.png",
+          "bytes": 90394,
+          "sha256": "2feefc31d137b99301a66a71bb8a5ca136ccbab2743aab09165f1b9b9aa22ffd"
         },
         "salazzle": {
           "file": "salazzle.png",
@@ -1364,6 +1474,11 @@
           "bytes": 86990,
           "sha256": "c93892b4c2c6acd72f35a162287db25761977363b8e4e0047a8a0820b689cfcf"
         },
+        "swalot": {
+          "file": "swalot.png",
+          "bytes": 161962,
+          "sha256": "ed0fa1f27c05e80fec2e0c7f200549a33b13a0367a183effe837262fcbee5c0c"
+        },
         "swampert": {
           "file": "swampert.png",
           "bytes": 137412,
@@ -1403,6 +1518,11 @@
           "file": "taurospaldeacombat.png",
           "bytes": 93580,
           "sha256": "1942ab8db0d34114dcb23190362ec6540e199470a6a67243ef0dd08701e2a678"
+        },
+        "thievul": {
+          "file": "thievul.png",
+          "bytes": 120048,
+          "sha256": "8532c5ab0e06e5a8591860d82ef1dc701ba8b03a14f87a40bdbb7ee50073ee4d"
         },
         "tinkaton": {
           "file": "tinkaton.png",
@@ -1533,6 +1653,11 @@
           "file": "whimsicott.png",
           "bytes": 170856,
           "sha256": "1d6c01ad624a6e7ca2095331d49280e1eb0facbb5228513da08101d3de98f3e0"
+        },
+        "wigglytuff": {
+          "file": "wigglytuff.png",
+          "bytes": 133899,
+          "sha256": "8150678a4be49542717ac2cdc6c18ecf80e6910172b045d15e79f239a8678a5e"
         },
         "wyrdeer": {
           "file": "wyrdeer.png",

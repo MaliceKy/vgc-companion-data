@@ -8324,7 +8324,7 @@
       "num": 163,
       "type": "Normal",
       "category": "Physical",
-      "basePower": 70,
+      "basePower": 80,
       "accuracy": 100,
       "alwaysHits": false,
       "pp": 20,
@@ -8337,7 +8337,7 @@
         "metronome",
         "slicing"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": 2,
@@ -10584,13 +10584,13 @@
       "alwaysHits": true,
       "pp": 5,
       "priority": 0,
-      "target": "self",
+      "target": "adjacentAllyOrSelf",
       "flags": [
         "snatch",
         "heal",
         "metronome"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
@@ -14590,7 +14590,7 @@
       "basePower": 0,
       "accuracy": null,
       "alwaysHits": true,
-      "pp": 10,
+      "pp": 5,
       "priority": 0,
       "target": "self",
       "flags": [
@@ -26464,7 +26464,7 @@
         "snatch",
         "metronome"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
@@ -33489,7 +33489,7 @@
       "basePower": 0,
       "accuracy": 100,
       "alwaysHits": false,
-      "pp": 10,
+      "pp": 5,
       "priority": 0,
       "target": "normal",
       "flags": [
@@ -35867,7 +35867,7 @@
         "mirror",
         "metronome"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
@@ -37273,7 +37273,7 @@
         "mirror",
         "metronome"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": 2,
@@ -37323,7 +37323,7 @@
         "metronome",
         "bite"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
@@ -37669,7 +37669,7 @@
         "mirror",
         "metronome"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
@@ -37815,7 +37815,7 @@
         "mirror",
         "metronome"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
@@ -38805,7 +38805,7 @@
         "protect",
         "mirror"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
@@ -38907,7 +38907,7 @@
         "defrost",
         "bullet"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
@@ -39215,7 +39215,7 @@
         "sound",
         "bypasssub"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
@@ -39604,7 +39604,7 @@
       "num": 794,
       "type": "Fighting",
       "category": "Physical",
-      "basePower": 150,
+      "basePower": 170,
       "accuracy": 100,
       "alwaysHits": false,
       "pp": 5,
@@ -43034,7 +43034,7 @@
         "mirror",
         "metronome"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
@@ -43083,7 +43083,7 @@
         "heal",
         "nosketch"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
@@ -44514,7 +44514,7 @@
         "protect",
         "mirror"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,

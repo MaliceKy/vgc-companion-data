@@ -1875,7 +1875,6 @@
       "name": "Leek",
       "gen": 8,
       "spritenum": 475,
-      "isNonstandard": "Past",
       "itemUser": [
         "Farfetch’d",
         "Farfetch’d-Galar",
@@ -2676,7 +2675,6 @@
       "name": "Rocky Helmet",
       "gen": 5,
       "spritenum": 417,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 60
       }
@@ -2687,7 +2685,6 @@
       "name": "Air Balloon",
       "gen": 5,
       "spritenum": 6,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -2698,7 +2695,6 @@
       "name": "Red Card",
       "gen": 5,
       "spritenum": 387,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -2720,7 +2716,6 @@
       "name": "Binding Band",
       "gen": 5,
       "spritenum": 31,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 30
       }
@@ -2753,7 +2748,6 @@
       "name": "Eject Button",
       "gen": 5,
       "spritenum": 118,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 30
       }
@@ -2908,7 +2902,6 @@
       "name": "Normal Gem",
       "gen": 5,
       "spritenum": 307,
-      "isNonstandard": "Past",
       "isGem": true
     },
     {
@@ -3715,7 +3708,6 @@
       "name": "Salamencite",
       "gen": 6,
       "spritenum": 627,
-      "isNonstandard": "Past",
       "megaStone": {
         "Salamence": "Salamence-Mega"
       },
@@ -4160,7 +4152,6 @@
       "name": "Terrain Extender",
       "gen": 7,
       "spritenum": 662,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 60
       }
@@ -4182,7 +4173,6 @@
       "name": "Electric Seed",
       "gen": 7,
       "spritenum": 664,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -4193,7 +4183,6 @@
       "name": "Psychic Seed",
       "gen": 7,
       "spritenum": 665,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -4204,7 +4193,6 @@
       "name": "Misty Seed",
       "gen": 7,
       "spritenum": 666,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -4215,7 +4203,6 @@
       "name": "Grassy Seed",
       "gen": 7,
       "spritenum": 667,
-      "isNonstandard": "Past",
       "fling": {
         "basePower": 10
       }
@@ -6567,7 +6554,6 @@
       "name": "Absolite Z",
       "gen": 9,
       "spritenum": 499,
-      "isNonstandard": "Future",
       "megaStone": {
         "Absol": "Absol-Mega-Z"
       },
@@ -6594,7 +6580,6 @@
       "name": "Garchompite Z",
       "gen": 9,
       "spritenum": 501,
-      "isNonstandard": "Future",
       "megaStone": {
         "Garchomp": "Garchomp-Mega-Z"
       },
@@ -6608,7 +6593,6 @@
       "name": "Lucarionite Z",
       "gen": 9,
       "spritenum": 502,
-      "isNonstandard": "Future",
       "megaStone": {
         "Lucario": "Lucario-Mega-Z"
       },
@@ -6663,7 +6647,6 @@
       "name": "Golisopite",
       "gen": 9,
       "spritenum": 508,
-      "isNonstandard": "Past",
       "megaStone": {
         "Golisopod": "Golisopod-Mega"
       },
@@ -6706,7 +6689,6 @@
       "name": "Baxcalibrite",
       "gen": 9,
       "spritenum": 514,
-      "isNonstandard": "Future",
       "megaStone": {
         "Baxcalibur": "Baxcalibur-Mega"
       },
