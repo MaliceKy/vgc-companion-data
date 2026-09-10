@@ -44512,7 +44512,8 @@
       "flags": [
         "contact",
         "protect",
-        "mirror"
+        "mirror",
+        "punch"
       ],
       "isNonstandard": null,
       "desc": null,
