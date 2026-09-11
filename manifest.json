@@ -1,18 +1,18 @@
 {
-  "version": "champions-roster-2f808645",
-  "contentHash": "0c6767738f2c57bb9ed2e424c437c8ca4becaad1b1ff2cfab26cec02e0eabbaf",
+  "version": "champions-roster-3dd27dcf",
+  "contentHash": "cf2cd87f38f5e5cd8a0ebfff8f9c2dca981cc55a9a41430b37b6057b9ce287dc",
   "schemaVersion": 1,
   "dataFile": "champions_pokedex.json",
-  "sha256": "8fc194649ac209198c292afeb1750eb529e40fbd93eb8f7326a004c00117c204",
-  "sizeBytes": 480944,
+  "sha256": "8c8397b4ea88b2cc5f5d99d867a376f0f386fb56b2197226d57a8ae8f3d79256",
+  "sizeBytes": 480921,
   "movesFile": "champions_moves.json",
-  "movesVersion": "champions-moves-5a9d00b4",
-  "movesSha256": "29eae94f52e5848a93573d49deccfe5cb76e7a5347843e2167067114eb0bd6f5",
-  "movesSizeBytes": 1104708,
+  "movesVersion": "champions-moves-9b7f670d",
+  "movesSha256": "a82b05f95272084911de79b817b15d4e31039f30e1a818612cc477b90f092717",
+  "movesSizeBytes": 1104706,
   "learnsetsFile": "champions_learnsets.json",
-  "learnsetsVersion": "champions-learnsets-884e95f1",
-  "learnsetsSha256": "6ab69247afa1dd9935274f091f012c695cdf07d7a85f58303b2ecf6569f8ef6a",
-  "learnsetsSizeBytes": 459715,
+  "learnsetsVersion": "champions-learnsets-04efd388",
+  "learnsetsSha256": "9ba8bc38c3b1c6b283800d3f72aff6ac1f65b5a757d83b50e0af22106245ba7d",
+  "learnsetsSizeBytes": 459740,
   "abilitiesFile": "champions_abilities.json",
   "abilitiesVersion": "champions-abilities-3a1438ff",
   "abilitiesSha256": "1ccb3a0f1e5225bb95c44a679c490bb95c275e4d27e4d664a14838e7e4af4380",
@@ -37,6 +37,6 @@
   "spritesManifest": "sprites/sprites_manifest.json",
   "source": {
     "name": "pokemon-showdown",
-    "commit": "d849b220082e113d8a17303509fb44d420c543d5"
+    "commit": "524413e8415fe179781e9bbcc7c79a85543b3409"
   }
 }

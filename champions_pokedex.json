@@ -8367,7 +8367,7 @@
       "name": "Salamence-Mega",
       "num": 373,
       "gen": 3,
-      "tier": "OU",
+      "tier": "Uber",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -21835,8 +21835,7 @@
         "Ice"
       ],
       "abilities": {
-        "0": "Thermal Exchange",
-        "H": "Ice Body"
+        "0": "Thermal Exchange"
       },
       "baseStats": {
         "hp": 115,

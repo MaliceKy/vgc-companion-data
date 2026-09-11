@@ -39616,7 +39616,7 @@
         "mirror",
         "failinstruct"
       ],
-      "isNonstandard": "Past",
+      "isNonstandard": null,
       "desc": null,
       "shortDesc": null,
       "critRatio": null,
