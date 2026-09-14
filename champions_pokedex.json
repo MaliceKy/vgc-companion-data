@@ -1883,7 +1883,7 @@
       "name": "Alakazam-Mega",
       "num": 65,
       "gen": 1,
-      "tier": "UUBL",
+      "tier": "Uber",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -9661,7 +9661,7 @@
       "name": "Lucario-Mega-Z",
       "num": 448,
       "gen": 9,
-      "tier": "OU",
+      "tier": "Uber",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -21759,7 +21759,7 @@
       "name": "Baxcalibur",
       "num": 998,
       "gen": 9,
-      "tier": "OU",
+      "tier": "Uber",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -21827,7 +21827,7 @@
       "name": "Baxcalibur-Mega",
       "num": 998,
       "gen": 9,
-      "tier": "OU",
+      "tier": "Uber",
       "nfe": false,
       "hasSprite": true,
       "types": [

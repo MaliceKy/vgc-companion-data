@@ -1,10 +1,10 @@
 {
-  "version": "champions-roster-3dd27dcf",
-  "contentHash": "cf2cd87f38f5e5cd8a0ebfff8f9c2dca981cc55a9a41430b37b6057b9ce287dc",
+  "version": "champions-roster-bb3a8a39",
+  "contentHash": "5d7741da7ab2e7c2bb2334578b8e86854aaa1b5fe26e65153505018d69064b4b",
   "schemaVersion": 1,
   "dataFile": "champions_pokedex.json",
-  "sha256": "8c8397b4ea88b2cc5f5d99d867a376f0f386fb56b2197226d57a8ae8f3d79256",
-  "sizeBytes": 480921,
+  "sha256": "a47f54d391ca2121515edc4992f887a21a8e627cfc4fff4c53ec65c6d9da66a6",
+  "sizeBytes": 480927,
   "movesFile": "champions_moves.json",
   "movesVersion": "champions-moves-9b7f670d",
   "movesSha256": "a82b05f95272084911de79b817b15d4e31039f30e1a818612cc477b90f092717",
@@ -37,6 +37,6 @@
   "spritesManifest": "sprites/sprites_manifest.json",
   "source": {
     "name": "pokemon-showdown",
-    "commit": "524413e8415fe179781e9bbcc7c79a85543b3409"
+    "commit": "aa6d5f0856d24679be8f5df167d1b528c2dcbd71"
   }
 }
