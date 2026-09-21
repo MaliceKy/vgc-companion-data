@@ -8900,7 +8900,7 @@
       "heal": null,
       "multihit": null,
       "status": null,
-      "volatileStatus": "curse",
+      "volatileStatus": null,
       "boosts": null,
       "self": null,
       "selfBoost": null,
