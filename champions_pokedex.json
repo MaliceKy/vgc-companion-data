@@ -6,7 +6,7 @@
       "name": "Venusaur",
       "num": 3,
       "gen": 1,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -345,7 +345,7 @@
       "name": "Blastoise",
       "num": 9,
       "gen": 1,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -1355,7 +1355,7 @@
       "name": "Ninetales-Alola",
       "num": 38,
       "gen": 1,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -1420,7 +1420,7 @@
       "name": "Wigglytuff",
       "num": 40,
       "gen": 1,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -1548,7 +1548,7 @@
       "name": "Persian",
       "num": 53,
       "gen": 1,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -1615,7 +1615,7 @@
       "name": "Persian-Alola",
       "num": 53,
       "gen": 1,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -2078,7 +2078,7 @@
       "name": "Victreebel-Mega",
       "num": 71,
       "gen": 9,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -2336,7 +2336,7 @@
       "name": "Farfetch’d",
       "num": 83,
       "gen": 1,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": false,
       "types": [
@@ -2788,7 +2788,7 @@
       "name": "Mr. Mime",
       "num": 122,
       "gen": 1,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -2923,7 +2923,7 @@
       "name": "Pinsir-Mega",
       "num": 127,
       "gen": 1,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -3243,7 +3243,7 @@
       "name": "Gyarados",
       "num": 130,
       "gen": 1,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -3434,7 +3434,7 @@
       "name": "Vaporeon",
       "num": 134,
       "gen": 1,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -4026,7 +4026,7 @@
       "name": "Meganium-Mega",
       "num": 154,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -4295,7 +4295,7 @@
       "name": "Feraligatr-Mega",
       "num": 160,
       "gen": 9,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -5198,7 +5198,7 @@
       "name": "Scizor",
       "num": 212,
       "gen": 2,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -6111,7 +6111,7 @@
       "name": "Swampert",
       "num": 260,
       "gen": 3,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -6182,7 +6182,7 @@
       "name": "Swampert-Mega",
       "num": 260,
       "gen": 3,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -6311,7 +6311,7 @@
       "name": "Gardevoir",
       "num": 282,
       "gen": 3,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -6509,7 +6509,7 @@
       "name": "Sableye-Mega",
       "num": 302,
       "gen": 3,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -6639,7 +6639,7 @@
       "name": "Mawile-Mega",
       "num": 303,
       "gen": 3,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -7084,7 +7084,7 @@
       "name": "Swalot",
       "num": 317,
       "gen": 3,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -7213,7 +7213,7 @@
       "name": "Sharpedo-Mega",
       "num": 319,
       "gen": 3,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -7403,7 +7403,7 @@
       "name": "Torkoal",
       "num": 324,
       "gen": 3,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -7465,7 +7465,7 @@
       "name": "Altaria",
       "num": 334,
       "gen": 3,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -7533,7 +7533,7 @@
       "name": "Altaria-Mega",
       "num": 334,
       "gen": 3,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -7595,7 +7595,7 @@
       "name": "Milotic",
       "num": 350,
       "gen": 3,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -7920,7 +7920,7 @@
       "name": "Chimecho-Mega",
       "num": 358,
       "gen": 9,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -8300,7 +8300,7 @@
       "name": "Salamence",
       "num": 373,
       "gen": 3,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -8495,7 +8495,7 @@
       "name": "Metagross-Mega",
       "num": 376,
       "gen": 3,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -8622,7 +8622,7 @@
       "name": "Infernape",
       "num": 392,
       "gen": 4,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -8821,7 +8821,7 @@
       "name": "Staraptor-Mega",
       "num": 398,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -8944,7 +8944,7 @@
       "name": "Roserade",
       "num": 407,
       "gen": 4,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -9205,7 +9205,7 @@
       "name": "Lopunny-Mega",
       "num": 428,
       "gen": 4,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -10042,7 +10042,7 @@
       "name": "Rhyperior",
       "num": 464,
       "gen": 4,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -10297,7 +10297,7 @@
       "name": "Mamoswine",
       "num": 473,
       "gen": 4,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -10360,7 +10360,7 @@
       "name": "Gallade",
       "num": 475,
       "gen": 4,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -10429,7 +10429,7 @@
       "name": "Gallade-Mega",
       "num": 475,
       "gen": 4,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -10816,7 +10816,7 @@
       "name": "Rotom-Heat",
       "num": 479,
       "gen": 4,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -10999,7 +10999,7 @@
       "name": "Serperior",
       "num": 497,
       "gen": 5,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -12225,7 +12225,7 @@
       "name": "Krookodile",
       "num": 553,
       "gen": 5,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -12419,7 +12419,7 @@
       "name": "Cofagrigus",
       "num": 563,
       "gen": 5,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -12610,7 +12610,7 @@
       "name": "Zoroark-Hisui",
       "num": 571,
       "gen": 5,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -12674,7 +12674,7 @@
       "name": "Reuniclus",
       "num": 579,
       "gen": 5,
-      "tier": "RU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -13763,7 +13763,7 @@
       "name": "Delphox-Mega",
       "num": 655,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -13966,7 +13966,7 @@
       "name": "Diggersby",
       "num": 660,
       "gen": 6,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -14029,7 +14029,7 @@
       "name": "Talonflame",
       "num": 663,
       "gen": 6,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -14331,7 +14331,7 @@
       "name": "Floette-Eternal",
       "num": 670,
       "gen": 6,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -14392,7 +14392,7 @@
       "name": "Floette-Mega",
       "num": 670,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -14526,7 +14526,7 @@
       "name": "Gogoat",
       "num": 673,
       "gen": 6,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -14587,7 +14587,7 @@
       "name": "Pangoro",
       "num": 675,
       "gen": 6,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -15054,7 +15054,7 @@
       "name": "Slurpuff",
       "num": 685,
       "gen": 6,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -15444,7 +15444,7 @@
       "name": "Dragalge-Mega",
       "num": 691,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -15567,7 +15567,7 @@
       "name": "Heliolisk",
       "num": 695,
       "gen": 6,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -15697,7 +15697,7 @@
       "name": "Aurorus",
       "num": 699,
       "gen": 6,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -15762,7 +15762,7 @@
       "name": "Sylveon",
       "num": 700,
       "gen": 6,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -16670,7 +16670,7 @@
       "name": "Noivern",
       "num": 715,
       "gen": 6,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -16804,7 +16804,7 @@
       "name": "Decidueye-Hisui",
       "num": 724,
       "gen": 7,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -17131,7 +17131,7 @@
       "name": "Crabominable-Mega",
       "num": 740,
       "gen": 9,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -17446,7 +17446,7 @@
       "name": "Mudsdale",
       "num": 750,
       "gen": 7,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -17830,7 +17830,7 @@
       "name": "Golisopod",
       "num": 768,
       "gen": 7,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -18358,7 +18358,7 @@
       "name": "Inteleon",
       "num": 818,
       "gen": 8,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -18486,7 +18486,7 @@
       "name": "Thievul",
       "num": 828,
       "gen": 8,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -18739,7 +18739,7 @@
       "name": "Toxtricity",
       "num": 849,
       "gen": 8,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": false,
       "types": [
@@ -18807,7 +18807,7 @@
       "name": "Grapploct",
       "num": 853,
       "gen": 8,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -18999,7 +18999,7 @@
       "name": "Grimmsnarl",
       "num": 861,
       "gen": 8,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -19063,7 +19063,7 @@
       "name": "Perrserker",
       "num": 863,
       "gen": 8,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -19125,7 +19125,7 @@
       "name": "Sirfetch’d",
       "num": 865,
       "gen": 8,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": false,
       "types": [
@@ -19250,7 +19250,7 @@
       "name": "Runerigus",
       "num": 867,
       "gen": 8,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -19521,7 +19521,7 @@
       "name": "Pincurchin",
       "num": 871,
       "gen": 8,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -19583,7 +19583,7 @@
       "name": "Indeedee",
       "num": 876,
       "gen": 8,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": false,
       "types": [
@@ -19651,7 +19651,7 @@
       "name": "Indeedee-F",
       "num": 876,
       "gen": 8,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": false,
       "types": [
@@ -19971,7 +19971,7 @@
       "name": "Basculegion",
       "num": 902,
       "gen": 8,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -20039,7 +20039,7 @@
       "name": "Basculegion-F",
       "num": 902,
       "gen": 8,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -20165,7 +20165,7 @@
       "name": "Overqwil",
       "num": 904,
       "gen": 8,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -20556,7 +20556,7 @@
       "name": "Arboliva",
       "num": 930,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -20618,7 +20618,7 @@
       "name": "Squawkabilly",
       "num": 931,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": false,
       "types": [
@@ -20876,7 +20876,7 @@
       "name": "Bellibolt",
       "num": 939,
       "gen": 9,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -20938,7 +20938,7 @@
       "name": "Mabosstiff",
       "num": 943,
       "gen": 9,
-      "tier": "OU",
+      "tier": "UU",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -22082,7 +22082,7 @@
       "name": "Hydrapple",
       "num": 1019,
       "gen": 9,
-      "tier": "UU",
+      "tier": "RU",
       "nfe": false,
       "hasSprite": true,
       "types": [
