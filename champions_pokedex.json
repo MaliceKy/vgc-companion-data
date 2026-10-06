@@ -4026,7 +4026,7 @@
       "name": "Meganium-Mega",
       "num": 154,
       "gen": 9,
-      "tier": "UU",
+      "tier": "UUBL",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -8495,7 +8495,7 @@
       "name": "Metagross-Mega",
       "num": 376,
       "gen": 3,
-      "tier": "UU",
+      "tier": "UUBL",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -9205,7 +9205,7 @@
       "name": "Lopunny-Mega",
       "num": 428,
       "gen": 4,
-      "tier": "UU",
+      "tier": "UUBL",
       "nfe": false,
       "hasSprite": true,
       "types": [
@@ -14392,7 +14392,7 @@
       "name": "Floette-Mega",
       "num": 670,
       "gen": 9,
-      "tier": "UU",
+      "tier": "UUBL",
       "nfe": false,
       "hasSprite": true,
       "types": [
